@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Peterson</title>
+    <description>Tim Peterson blog. Molecular biology and programming. Tiny things that rule the world.
+</description>
+    <link>http://blog.timrpeterson.com/</link>
+    <atom:link href="http://blog.timrpeterson.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Jul 2015 12:43:18 -0400</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2015 12:43:18 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Academia is Detroit</title>
+        <description>&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;One deduction: the arbiters of mainstream approval (and consequent rewards) are on the precipice of a calamitous diminution in influence.&lt;/p&gt;&amp;mdash; Balaji S. Srinivasan (@balajis) &lt;a href=&quot;https://twitter.com/balajis/status/533508051450347520&quot;&gt;November 15, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Detroit is synonymous with epic collapse. Once proud and a world-leading economic center, it has hopelessly lost it way in terms of human capital and infrastructure. Like Detroit, I think we are as Balaji puts it, “on the precipice of a calamitous diminution in influence” in academia. The cause of the decline, though unsurprising for Detroit, will be rather remarkable for academia—failing to adapt to new technology. While new technologies such as MOOCs have taken a first shot at the university model, many more approaches will be needed. Universities are no different from any organization in requiring money and power to maintain/bolster their positions. MOOCs so far haven’t figured out a way to accumulate either.&lt;/p&gt;
+
+&lt;p&gt;Universities are broken down into the Arts &amp;amp; Sciences. The Arts have always been more accessible than the Sciences, so we shouldn’t be too surprised by The Bieb’s (Justin Bieber, pluh-lez you know) money and power. With the Sciences, the internet success stories are less clear. The common complaint amongst scientists is that the money you might raise from some online scheme — crowdfunding/patronage/etc. — won’t ever approach the money you would need to do REAL science. This can be dismissed by looking at Kickstarter’s history. When it started, KS campaigns generated $100 or less. However, nowadays it is the norm to see campaigns raising many 10s of $1000s even millions of dollars.&lt;/p&gt;
+
+&lt;p&gt;REAL Science too complicated to raise money like potato salad did? Don’t think so. What will happen is that scientists will have to explain their work better. “Better” means so a broad audience can understand it. The crowdfunding sugardaddies/mommies will unconsciously demand it. Scientists already must write a layperson explanation of their work for government grants (with lots already written that these layperson terms strongly affecting grants being awarded), so better get use to it. Publish or perish will become kickstart or perish.&lt;/p&gt;
+
+&lt;p&gt;Still there is a problem. What Kickstarter, Indiegogo, Patreon et al. haven’t addressed is connecting the money with reputation. Academia is all about reputation. To get REAL scientists onboard you need someway to improve their standing amongst their peers and students. Stackoverflow (SO) shows the way. If you are not familiar with SO and their voting mechanics, go here now, it is worth understanding: &lt;a href=&quot;http://meta.stackexchange.com/questions/7237/how-does-reputation-work&quot;&gt;http://meta.stackexchange.com/questions/7237/how-does-reputation-work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The key thing to realize from SO is that people are using the reputation they are building there to get REAL jobs. Not your Ivy league degree that you paid $200K+ for; your numbers on some website. For programming, your SO rep score is the new G.P.A. StackExchange, Reddit and I all see no reason why this concept won’t work across academic disciplines. Combine reputation with “students” actually getting funded for their projects and their opportunity costs will irreconcilably move away from the ivy tower.&lt;/p&gt;
+
+&lt;p&gt;Kickstarter + Stackoverflow. Money and status. This is what we are doing with Onarbor. Let’s see what happens…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Nov 2014 01:50:48 -0500</pubDate>
+        <link>http://blog.timrpeterson.com/academia/onarbor/detroit/moocs/kickstarter/stackoverflow/2014/11/14/academia-is-detroit.html</link>
+        <guid isPermaLink="true">http://blog.timrpeterson.com/academia/onarbor/detroit/moocs/kickstarter/stackoverflow/2014/11/14/academia-is-detroit.html</guid>
+        
+        
+        <category>academia</category>
+        
+        <category>onarbor</category>
+        
+        <category>detroit</category>
+        
+        <category>moocs</category>
+        
+        <category>kickstarter</category>
+        
+        <category>stackoverflow</category>
+        
+      </item>
+    
+      <item>
+        <title>Cynicism</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/cynicism.png&quot; alt=&quot;cynicism.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t snark, these buttons deliver a profoundly new user experience!&lt;/p&gt;
+
+&lt;p&gt;This word went off in my head while going down yet another rabbit hole on a popular website’s commenting thread. The topic was Google’s new Material design and the use of box-shadows to give Material buttons dimensionality (example above). Pretty engaging stuff, I know. The post had generated hundreds of upvotes and comments. It made sense because Google is kinda a big deal, ☺, but srsly a raised vs. flat button?&lt;/p&gt;
+
+&lt;p&gt;Commenting threads are, of course, now ubiquitous. We, yes WE, spend endlessly hours engaging each across the web for mythical internet points. Somehow it’s become cool or at least acceptable to be perpetually on the high school debate team.&lt;/p&gt;
+
+&lt;p&gt;Getting back to cynicism, a common purposes for commenting threads is to flesh out your ideas and discover others’. Cynicism happens when you don’t think there couldn’t possibly be room for either of these things to happen. When a thread seems SO obvious to defy further explanation, you might think there are only two responses: 1) respond critically, e.g., “duh!” 2) downvote. So in my example, “Google sucks up more of the internet because they are now outlining their buttons???” DOWNVOTE!!!&lt;/p&gt;
+
+&lt;p&gt;What this category of response really means is “I am doing &lt;em&gt;insert_earth_shattering_thing&lt;/em&gt; and no one gives a crap?” People care enough to comment cynically about something that doesn’t involve them when their own ideas aren’t getting noticed. There are two reasons to care about your own ideas. Money and power. There are some quantitative differences in cynicism when money vs. power is involved, so let’s examine each.&lt;/p&gt;
+
+&lt;h3 id=&quot;cynicism-when-money-is-involved&quot;&gt;Cynicism when money is involved.&lt;/h3&gt;
+
+&lt;p&gt;When I think about cynicism and ideas when money is involved I think entrepeneurship. What I think I’m starting to notice is that cynicism isn’t in the wheelhouse of successful/influential money makers. They may not agree with someone, but I don’t see them delivering beatdowns of the regular. On the other hand, take a look the cynicism-to-impartiality ratio on espn.com’s Facebook commenting threads. Sports are a physical debate. Don’t let the sports side notes confuse you, though. This is ground-zero for the fiscally disenfranchised. “$10M/year for this bozo who can’t speak english???” -Top commentator who self-identifies as a student at _insert_not_prestigious_school.&lt;/p&gt;
+
+&lt;p&gt;Perhaps, it’s just as simple as money makers not wasting time on commenting threads. The thing I’d like to know is whether they are actually visiting these threads in the first place.&lt;/p&gt;
+
+&lt;h3 id=&quot;cynicism-when-power-or-social-status-is-involved&quot;&gt;Cynicism when power or social status is involved.&lt;/h3&gt;
+
+&lt;p&gt;An obvious case for cynicism about ideas when social status is involved is in universities. I’m familiar with academic cynicism because I’ve worked in biomedical research at well-known institutions for &amp;gt;10 years (all on the east coast, the part of the US where cynicism seems to make particularly good sense to people). Cynicism is the wheelhouse of the ivory tower. A very common way cynicism plays out in my world is after someone publishes their research in a “good” journal or receives an award or grant. Despite all these accolades directly or indirectly lining their pockets, money is rarely the important thing. Nobody ever has enough money for their research. What happens is the claws come out. Wallace Stanley Sayre’s law, “Academic politics is the most vicious and bitter form of politics, because the stakes are so low.”&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h3&gt;
+
+&lt;p&gt;Perhaps cynicism simply comes with those who lose more than they win. It would be interesting to gauge Elon Musk’s level of cynicism now vs. in 2008 when he was getting divorced, Tesla didn’t exist, and SpaceX crashed its first three missions.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Nov 2014 01:50:48 -0500</pubDate>
+        <link>http://blog.timrpeterson.com/commenting_threads/know-it-all/2014/11/07/cyncism.html</link>
+        <guid isPermaLink="true">http://blog.timrpeterson.com/commenting_threads/know-it-all/2014/11/07/cyncism.html</guid>
+        
+        
+        <category>commenting_threads</category>
+        
+        <category>know-it-all</category>
+        
+      </item>
+    
+      <item>
+        <title>All of college should be &#39;one and done&#39; like the NBA</title>
+        <description>&lt;p&gt;All of college should be “one and done” like the NBA.&lt;/p&gt;
+
+&lt;p&gt;Talented young basketball players are required to spend one year in college before entering the NBA. The idea is to have some transition time from high school and improve their readiness for their adult professional life. This idea has surprising generalizability. It would be wise to consider applying it broadly across college pursuits, both athletics and academics.&lt;/p&gt;
+
+&lt;p&gt;The major benefits of going to college are having been accepted to a good college and getting a sample of an adult workload. Much lower down on the list is the actual material one learns. By going to college but not graduating, one still has to prove in two places, high school and during 1st year, that the student was capable of GSD. Proving yourself repeatedly is what increases society’s confidence in your abilities.&lt;/p&gt;
+
+&lt;p&gt;Only the best and brightest college students should do one year. In NBA, staying longer than one year increases the superstar’s chance of getting hurt, damaging one’s career. Likewise for other pursuits, staying longer than one year damages the uniqueness of the student. It instills textbook thinking, lessening the chance that student will make an original contribution to their field. Those who won’t make a career out of what they do in college can stay all four years.&lt;/p&gt;
+
+&lt;p&gt;Just like for future NBAers, the actual time spent in college can be one, two, or three years. The point is to leave when one is ready and not on some arbitrarily defined length of time such as the degree granting date.&lt;/p&gt;
+
+&lt;p&gt;I’m having trouble finding ANY academic discipline for which this idea wouldn’t apply. Despite what your intuition may say, it certainly applies to doctors and lawyers. I went to medical school and can confidently say that after two years when I entered the wards, I was a capable doctor for 90+% of the cases an internist would see. Yes, 90+% isn’t good enough, but the point is I wouldn’t need another 6 years as is currently required. I should be allowed to test out when I’m ready.&lt;/p&gt;
+
+&lt;p&gt;College is a money grab by the schools. For students, tuition climbs every year. For athletes, the schools fill the enormous and overpriced stands and sell jerseys using the student-athletes’ likenesses. Whereas the players themselves get suspended if they make even $50 from their name. Why would all college students spend four years earning 0 to (negative)$200,000? Why not actually earn money? Yes it’s not all about money, but you can still just Google what you don’t know and skip the $200,000 tax. YCombinator and other startup accelerators are already replacing the M.B.A., so why can’t my colleagues be 19 year-olds too?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Oct 2014 02:50:48 -0400</pubDate>
+        <link>http://blog.timrpeterson.com/college/nba/2014/10/18/all-college-should-be-one-and-done.html</link>
+        <guid isPermaLink="true">http://blog.timrpeterson.com/college/nba/2014/10/18/all-college-should-be-one-and-done.html</guid>
+        
+        
+        <category>college</category>
+        
+        <category>nba</category>
+        
+      </item>
+    
+  </channel>
+</rss>
