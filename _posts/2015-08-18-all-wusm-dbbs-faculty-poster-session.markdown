@@ -7,7 +7,8 @@ comments: True
 ---
 
 
-<a href="http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=3728">FULL INFO</a>
+*<a href="http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=3728">FULL INFO</a>*
+
 **Seminar Information**
 
 Date of Seminar: Tuesday, August 18
