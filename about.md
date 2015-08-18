@@ -13,7 +13,7 @@ I'm a postdoc at Harvard in molecular biology. Starting next July (2016), I'm go
 
 I've created [Onarbor](https://onarbor.com/) and previously, [Leangap](https://leangap.com/).
 
-My lab site will be available soon at: [lab.timrpeterson.com](http://lab.timrpeterson.com/)
+My lab site is available at: [lab.timrpeterson.com](http://lab.timrpeterson.com/)
 
 [Linkedin](https://www.linkedin.com/petersontimr)
 

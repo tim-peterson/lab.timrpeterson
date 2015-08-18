@@ -4,6 +4,8 @@ title:  "Washington University School of Medicine St. Louis DBBS Faculty Poster 
 date:   2015-08-18 14:30:00
 categories: WUSM WUSTL faculty poster session
 comments: True
+excerpt: WUSM WUSTL Washington University School of Medicine faculty poster session Fall 2015.
+
 ---
 
 

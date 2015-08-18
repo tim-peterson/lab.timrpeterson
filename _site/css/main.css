@@ -475,6 +475,16 @@ th {
 td {
   border: 1px solid #000000; }
 
+ul.keyword-list {
+  list-style-type: none;
+  margin-top: 50px; }
+
+ul.keyword-list li {
+  margin-bottom: 15px; }
+
+ul.keyword-list h2 {
+  margin-bottom: 5px; }
+
 .site-header {
   border-bottom: 0; }
 

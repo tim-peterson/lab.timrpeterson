@@ -1,8 +1,8 @@
 # Site settings
-title: Tim Peterson
+title: Tim R Peterson Lab
 email: hi@timrpeterson.com
 description: > # this means to ignore newlines until "baseurl:"
-  Tim Peterson blog. Molecular biology and programming. Tiny things that rule the world.
+  Tim R Peterson Lab. CRISPR, Javascript, Python, Golang, Aging, Osteoporosis, Mental Health, Circadian Rhythms, genomics, metabolomics, systems biology, computational biology, biomedical engineering, chemical biology, Bisphosphonates, SSRIs, Lithium, microfluidics, materials science, computer science, point of care diagnostics, quantified self, personalized medicine.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lab.timrpeterson.com" # the base hostname & protocol for your site
 twitter_username: timrpeterson
