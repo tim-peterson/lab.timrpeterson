@@ -1,6 +1,6 @@
 # Site settings
 title: Tim R Peterson Lab
-email: hi@timrpeterson.com
+email: petersontimr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Tim R Peterson Lab. CRISPR, Javascript, Python, Golang, Aging, Osteoporosis, Mental Health, Circadian Rhythms, genomics, metabolomics, systems biology, computational biology, biomedical engineering, chemical biology, Bisphosphonates, SSRIs, Lithium, microfluidics, materials science, computer science, point of care diagnostics, quantified self, personalized medicine.
 baseurl: "" # the subpath of your site, e.g. /blog/
