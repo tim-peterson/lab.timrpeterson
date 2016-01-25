@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tim R Peterson Lab</title>
-    <description>Tim R Peterson Lab. CRISPR, High throughput sequencing, Javascript, Node.js, Python, Go, Obj-C/Swift, Nginx, AWS, Aging, Osteoporosis, Cardiovascular disease, Mental Health, Depression, Bipolar disease, Circadian Rhythms, genomics, metabolomics, genetics, biochemistry, systems biology, computational biology, biomedical engineering, bioengineering, chemical biology, Bisphosphonates, SSRIs, Statins, Lithium, single cell RNA seq, microfluidics, materials science, computer science, point of care diagnostics, quantified self, personalized medicine.
+    <description>Tim R Peterson Lab. CRISPR, Javascript, Python, Golang, Aging, Osteoporosis, Mental Health, Circadian Rhythms, genomics, metabolomics, systems biology, computational biology, biomedical engineering, chemical biology, Bisphosphonates, SSRIs, Lithium, microfluidics, materials science, computer science, point of care diagnostics, quantified self, personalized medicine.
 </description>
     <link>http://lab.timrpeterson.com/</link>
     <atom:link href="http://lab.timrpeterson.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Aug 2015 08:23:35 -0500</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2015 08:23:35 -0500</lastBuildDate>
+    <pubDate>Sun, 24 Jan 2016 23:09:23 -0500</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 23:09:23 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -30,7 +30,7 @@ Title of Seminar: “DBBS Faculty Poster Session”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;
 This poster session introduces students to the vast array of research being conducted by members of the Division of Biology &amp;amp; Biomedical Sciences. 65+ labs will be represented.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Aug 2015 09:30:00 -0500</pubDate>
+        <pubDate>Tue, 18 Aug 2015 10:30:00 -0400</pubDate>
         <link>http://lab.timrpeterson.com/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session.html</link>
         <guid isPermaLink="true">http://lab.timrpeterson.com/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session.html</guid>
         
