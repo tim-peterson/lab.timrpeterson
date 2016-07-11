@@ -9,13 +9,9 @@ comments: True
 ---
 
 
-[sadf](https://adf.com)
-
-# Genomics, metabolomics, and the quantified self in aging and mental health
+## Our group focuses on aging and mental health, two increasingly pressing quality of life issues. 
 
 ##### *Molecular biology and programming, tiny things that control the world.* 
-
-## Our group focuses on aging and mental health, two increasingly pressing quality of life issues. 
 
 ### Current projects
 
