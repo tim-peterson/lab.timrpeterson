@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/img/tim-better.jpg" alt="Tim Peterson" style="width: 200px;"/>
+<img src="/img/tim-square.jpg" alt="Tim Peterson" style="width: 200px;"/>
 
 
 <!--![/img/tim-better.jpg](/img/tim-better.jpg)-->
