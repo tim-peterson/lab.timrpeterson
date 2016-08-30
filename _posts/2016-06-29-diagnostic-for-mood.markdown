@@ -10,7 +10,7 @@ comments: True
 
 
 
-**Molecular Diagnostic for mood**
+**Towards A Molecular Diagnostic for Mood**
 
 Can mood be quantified? 
 

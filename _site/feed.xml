@@ -6,13 +6,37 @@
 </description>
     <link>http://lab.timrpeterson.com/</link>
     <atom:link href="http://lab.timrpeterson.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Aug 2016 21:55:24 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Aug 2016 21:55:24 -0500</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2016 22:19:55 -0500</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2016 22:19:55 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
+        <title>Bone basics</title>
+        <description>&lt;p&gt;&lt;strong&gt;Bone basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-measure-bone-activity&quot;&gt;How to measure bone activity?&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/bfr.png&quot; alt=&quot;BFR explained&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Osteoblasts:&lt;/strong&gt; Fluorescent microscopy of verterbrae to evaluate dynamic histomorphometry, in particular bone formation rate (BFR). Mice were injected with the fluorescent dyes, Calcein (in green), on day 0 and Alizarin Red (in red), 7 days later. The distance between the Calcein and Alizarin Red labelling provides a measure of bone formation rate and more specifically, osteoblast activity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/trap.png&quot; alt=&quot;TRAP explained&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Osteoclasts:&lt;/strong&gt; Brightfield microscopy of vertebrae to evaluate osteoclast activity with Tartrate-Resistant Acid Phosphate (TRAP) assay Plastic sections of mouse L3-L4 vertebrae were used. The number of TRAP+ cells  (in red) on bone surface provides a measure of osteoclast activity.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Aug 2016 09:30:00 -0500</pubDate>
+        <link>http://lab.timrpeterson.com/skeletal-system/2016/08/29/bone-basics.html</link>
+        <guid isPermaLink="true">http://lab.timrpeterson.com/skeletal-system/2016/08/29/bone-basics.html</guid>
+        
+        
+        <category>skeletal-system</category>
+        
+      </item>
+    
+      <item>
         <title>Can mood be quantified?</title>
-        <description>&lt;p&gt;&lt;strong&gt;Molecular Diagnostic for mood&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Towards A Molecular Diagnostic for Mood&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Can mood be quantified? &lt;/p&gt;
 

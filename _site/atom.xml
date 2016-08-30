@@ -4,7 +4,7 @@
  <title>Tim R Peterson Lab</title>
  <link href="http://lab.timrpeterson.com/atom.xml" rel="self"/>
  <link href="http://lab.timrpeterson.com/"/>
- <updated>2016-08-29T21:55:24-05:00</updated>
+ <updated>2016-08-29T22:19:55-05:00</updated>
  <id>http://lab.timrpeterson.com</id>
  <author>
    <name></name>
@@ -13,11 +13,31 @@
 
  
  <entry>
+   <title>Bone basics</title>
+   <link href="http://lab.timrpeterson.com/skeletal-system/2016/08/29/bone-basics.html"/>
+   <updated>2016-08-29T09:30:00-05:00</updated>
+   <id>http://lab.timrpeterson.com/skeletal-system/2016/08/29/bone-basics</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Bone basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-measure-bone-activity&quot;&gt;How to measure bone activity?&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/bfr.png&quot; alt=&quot;BFR explained&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Osteoblasts:&lt;/strong&gt; Fluorescent microscopy of verterbrae to evaluate dynamic histomorphometry, in particular bone formation rate (BFR). Mice were injected with the fluorescent dyes, Calcein (in green), on day 0 and Alizarin Red (in red), 7 days later. The distance between the Calcein and Alizarin Red labelling provides a measure of bone formation rate and more specifically, osteoblast activity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/trap.png&quot; alt=&quot;TRAP explained&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Osteoclasts:&lt;/strong&gt; Brightfield microscopy of vertebrae to evaluate osteoclast activity with Tartrate-Resistant Acid Phosphate (TRAP) assay Plastic sections of mouse L3-L4 vertebrae were used. The number of TRAP+ cells  (in red) on bone surface provides a measure of osteoclast activity.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Can mood be quantified?</title>
    <link href="http://lab.timrpeterson.com/mental-health/2016/06/29/diagnostic-for-mood.html"/>
    <updated>2016-06-29T09:30:00-05:00</updated>
    <id>http://lab.timrpeterson.com/mental-health/2016/06/29/diagnostic-for-mood</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Molecular Diagnostic for mood&lt;/strong&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;strong&gt;Towards A Molecular Diagnostic for Mood&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Can mood be quantified? &lt;/p&gt;
 
