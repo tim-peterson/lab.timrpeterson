@@ -29,6 +29,10 @@ My WashU page is available [here](http://dbbs.wustl.edu/faculty/Pages/faculty_bi
 
 <img src="/img/niki-song.jpg" alt="Niki Song" style="width: 200px;border-radius;4px"/>
 
-**Niki Song** - When she’s not in lab, you can find Niki curled up under her blankets at home binge-watching Stranger Things, The Walking Dead, or MasterChef. She likes to stay active through dancing and weightlifting. Niki is also a dedicated foodie and loves exploring restaurants around St. Louis.
+**Niki Song** - 
+
+Niki joined the lab in October 2016, where she will be performing CRISPRi screenings to identify novel targets for clinical depression drugs and working on the burgeoning connection between depression and bone loss. She graduated from Washington University in 2016 with a major in Psychology. Niki is planning to attend medical school next fall and is interested in potentially pursuing the field of psychiatry.
+
+When she’s not in lab, you can find Niki curled up under her blankets at home binge-watching Stranger Things, The Walking Dead, or MasterChef. She likes to stay active through dancing and weightlifting. Niki is also a dedicated foodie and loves exploring restaurants around St. Louis.
 
 <hr>
