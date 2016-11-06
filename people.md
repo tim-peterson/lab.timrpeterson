@@ -36,3 +36,11 @@ Niki joined the lab in October 2016, where she will be performing CRISPRi screen
 When she’s not in lab, you can find Niki curled up under her blankets at home binge-watching Stranger Things, The Walking Dead, or MasterChef. She likes to stay active through dancing and weightlifting. Niki is also a dedicated foodie and loves exploring restaurants around St. Louis.
 
 <hr>
+
+<img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius;4px"/>
+
+**Chris Chow** - 
+
+Chris is a Sophomore at WashU.
+
+<hr>
