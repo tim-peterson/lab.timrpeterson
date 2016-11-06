@@ -7,7 +7,7 @@ permalink: /presentations/
 <div style="text-align:center">
 
 <h4> Molecular Genetics & Genomics (MGG), CSG (Computational Systems Biology), HSG (Human Statistical Genomics) 2016 retreat </h4>
-<iframe src="https://docs.google.com/presentation/d/16H_7Pqrwa2_R6TUMouwWA53jnuDKXq-pasPLX6mAUaw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1OOExwCbcRjh_gl-ld-CDBuaBLAkf-CitGiNIQHmzlJ0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 <h4>Faculty Rotation Talk Fall 2016 </h4>
