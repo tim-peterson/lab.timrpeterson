@@ -37,10 +37,50 @@ When she’s not in lab, you can find Niki curled up under her blankets at home 
 
 <hr>
 
+
+
+**Ji Woong Park** - 
+
+Ji is a DBBS PhD student working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*.
+
+<hr>
+
 <img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius;4px"/>
 
 **Chris Chow** - 
 
-Chris is a Sophomore at WashU.
+Chris is a Sophomore at WashU working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*.
 
 <hr>
+
+**Jinmei Li** - 
+
+Jinmei is the lab manager who leads the *Disruptive Innovation of Blockbuster drugs using CRISPRi*.
+
+<hr>
+
+
+**Melanie Lopez** - 
+
+Melanie is a Junior at WashU on the *Molecular Diagnostic for Mood* project.
+
+<hr>
+
+**Jay Jiang** - 
+
+Jay is a Senior at WashU majoring in Biochemistry working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*.
+
+<hr>
+
+**Kevin Li** - 
+
+Kevin is a Sophomore BME major at WashU on the *10X healthspan/lifespan project*.
+
+<hr>
+
+**Christina Gu** - 
+
+Christina is a Senior Math major at WashU on the *10X healthspan/lifespan project*.
+
+<hr>
+
