@@ -37,11 +37,17 @@ When she’s not in lab, you can find Niki curled up under her blankets at home 
 
 <hr>
 
-
-
 **Ji Woong Park** - 
 
 Ji is a DBBS PhD student working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*.
+
+<hr>
+
+<img src="/img/jinmei-li.jpg" alt="Jinmei Li" style="width: 200px;border-radius;4px"/>
+
+**Jinmei Li** - 
+
+Jinmei is the lab manager who leads the *Disruptive Innovation of Blockbuster drugs using CRISPRi*.
 
 <hr>
 
@@ -50,12 +56,6 @@ Ji is a DBBS PhD student working on *MORPHEOME - Molecular ORPHan PhEnOtype Matc
 **Chris Chow** - 
 
 Chris is a Sophomore at WashU working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*.
-
-<hr>
-
-**Jinmei Li** - 
-
-Jinmei is the lab manager who leads the *Disruptive Innovation of Blockbuster drugs using CRISPRi*.
 
 <hr>
 
