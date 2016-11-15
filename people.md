@@ -37,9 +37,15 @@ When she’s not in lab, you can find Niki curled up under her blankets at home 
 
 <hr>
 
+<img src="/img/ji-woong-park.png" alt="Ji Woong Park" style="width: 200px;border-radius;4px"/>
+
+
 **Ji Woong Park** - 
 
+
 Ji is a DBBS PhD student working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*.
+
+Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate student in Peterson Lab. Ji graduated from Washington & Jefferson College with B.A. in Chemistry with Honors and minor in Neuroscience. His previous research experiences span cardiovascular molecular biology (Cincinnati College of Medicine), biophysical instrumentation (W&J), and protein biochemistry in axon degeneration (Wash U Med). Ji is leading MORPHEOME - Molecular ORPHan PhEnOtype MatchEr project and involved in establishing computational pipeline combined with wet-lab validation to elucidate novel genes in osteoporosis and depression. He is passionate about coding and is involved with LaunchCode in STL. In his spare time, he is an avid foodie (with photos to prove) and has been to 5 ramen restaurants in STL (Robata, Nami, Midtown, Death in the Afternoon, and Vista).
 
 <hr>
 
