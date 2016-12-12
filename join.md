@@ -1,3 +1,8 @@
+---
+layout: page
+title: Joining the lab
+permalink: /join/
+---
 
 
 ## Postdoctoral Fellows
