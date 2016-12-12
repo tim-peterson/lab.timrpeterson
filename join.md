@@ -1,5 +1,3 @@
-# Joining the Lab
-
 
 
 ## Postdoctoral Fellows
