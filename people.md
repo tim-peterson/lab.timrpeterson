@@ -52,8 +52,14 @@ img {
 </style>
 
 
+<img src="/img/IMG_7537-lab080317.JPG" alt="Lab Summer 2017" style="width: 100%;border-radius;4px"/>
 
+<h3 style="text-align:center">Summer 2017</h3>
 
+<br>
+<br>
+
+<h3>Current lab members</h3>
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/tim-square.jpg" alt="Tim Peterson" style="width: 200px;border-radius;4px"/>
 
@@ -66,16 +72,7 @@ My WashU page is available <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_
 <hr>
 
 
-<div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/niki-song.jpg" alt="Niki Song" style="width: 200px;border-radius;4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Niki Song</b></h4> Niki joined the lab in October 2016, where she will be performing CRISPRi screenings to identify novel targets for clinical depression drugs and working on the burgeoning connection between depression and bone loss. She graduated from Washington University in 2016 with a major in Psychology. Niki is planning to attend medical school next fall and is interested in potentially pursuing the field of psychiatry.
-
-When she’s not in lab, you can find Niki curled up under her blankets at home binge-watching Stranger Things, The Walking Dead, or MasterChef. She likes to stay active through dancing and weightlifting. Niki is also a dedicated foodie and loves exploring restaurants around St. Louis.</div> </div>
-
-
-
-<hr>
 
 
 <div class="media"> <div class="media-left"> <a href="#">
@@ -119,8 +116,27 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 </div> </div>
 
 
+
+**Kevin Li** - 
+
+Kevin is a Sophomore BME major at WashU on the *10X healthspan/lifespan project*.
+
+
+
 <hr>
 
+**Harrison Rhee** - 
+
+Harrison is a Junior at WashU working on the CRISPRi screening.
+
+
+<hr>
+
+**India Bradley** - 
+
+India is an upcoming Junior at Howard University working on the *Molecular Diagnostic for Mood* project. She was an Amgen Scholar for 2017. 
+
+<hr>
 
 **Melanie Lopez** - 
 
@@ -128,21 +144,28 @@ Melanie is a Junior at WashU on the *Molecular Diagnostic for Mood* project.
 
 <hr>
 
-**Jay Jiang** - 
 
-Jay is a Senior at WashU majoring in Biochemistry working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*.
 
-<hr>
 
-**Kevin Li** - 
+<br>
+<br>
 
-Kevin is a Sophomore BME major at WashU on the *10X healthspan/lifespan project*.
+<h3>Former lab members</h3>
+
+**Niki Song** - 
+
+Niki graduated from WashU in 2016 with degree in Pyschology. She worked on the CRISPRi screening. She is now in medical school at New York Medical College.
 
 <hr>
 
 **Christina Gu** - 
 
-Christina is a Senior Math major at WashU on the *10X healthspan/lifespan project*.
+Christina graduated from WashU in 2017 with degree in Math. She worked on the *10X healthspan/lifespan project*.
 
 <hr>
 
+**Jay Jiang** - 
+
+Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*. He is now in medical school.
+
+<hr>
