@@ -129,9 +129,17 @@ On campus, Kevin is involved in Campus Y volunteering, Engineering Tutoring Serv
 
 <hr>
 
-**Sandeep Kumar, PhD** - 
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/sandeep-kumar.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sandeep Kumar, PhD</b></h4> 
 Sandeep is a Senior Scientist in the lab leading the *10X healthspan/lifespan project*.
+
+
+</div> </div>
+
+
+
 
 <hr>
 
