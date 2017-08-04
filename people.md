@@ -52,7 +52,7 @@ img {
 </style>
 
 
-<img src="/img/IMG_7537-lab080317.JPG" alt="Lab Summer 2017" style="width: 100%;border-radius;4px"/>
+<img src="/img/IMG_7537-lab080317.JPG" alt="Lab Summer 2017" style="width: 100%;border-radius:4px"/>
 
 <h3 style="text-align:center">Summer 2017</h3>
 
@@ -61,7 +61,7 @@ img {
 
 <h3>Current lab members</h3>
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/tim-square.jpg" alt="Tim Peterson" style="width: 200px;border-radius;4px"/>
+<img src="/img/tim-square.jpg" alt="Tim Peterson" style="width: 200px;border-radius:4px"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Tim Peterson</b></h4> I'm an Assistant Professor in the Department of Medicine at Washington University St. Louis. I study genomics, metabolomics and the quantified self of aging and mental health. Currently, my group is working on an osteoporosis project.
 
@@ -76,7 +76,7 @@ My WashU page is available <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_
 
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/ji-woong-park.png" alt="Ji Woong Park" style="width: 200px;border-radius;4px"/>
+<img src="/img/ji-woong-park.png" alt="Ji Woong Park" style="width: 200px;border-radius:4px"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ji Woong Park</b></h4> Ji is a DBBS PhD student working on <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b>.
 
@@ -89,7 +89,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/jinmei-li.jpg" alt="Jinmei Li" style="width: 200px;border-radius;4px"/>
+<img src="/img/jinmei-li.jpg" alt="Jinmei Li" style="width: 200px;border-radius:4px"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jinmei Li</b></h4> Jinmei is the lab manager who leads the *Disruptive Innovation of Blockbuster drugs using CRISPRi.
 
@@ -98,7 +98,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="http://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=200&d=identicon&r=PG" alt="Tim Peterson" style="width: 200px;border-radius;4px"/>
+<img src="http://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=200&d=identicon&r=PG" alt="Tim Peterson" style="width: 200px;border-radius:4px"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b><a href="https://www.linkedin.com/damon-burrow-947126127"> Damon Burrow</a></b></h4> Damon is a new addition to the Tim Peterson Lab here at Washington University. Damon is a recent graduate of William Woods University in Fulton, MO where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. </div> </div>
 
@@ -108,18 +108,38 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius;4px"/>
+<img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius:4px"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow</b></h4> Chris is a Sophomore at WashU working on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr.
 
 
 </div> </div>
+<hr>
+
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/kevin-li-2.jpg" alt="Kevin Li" style="width: 200px;border-radius:4px;"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Kevin Li</b></h4> Kevin is a Junior BME major, Computer Science minor at WashU (Class of 2019) on the *10X healthspan/lifespan project*. He's interested in the biology of aging and the engineering principles in modulating stem cell gene expression.
+
+On campus, Kevin is involved in Campus Y volunteering, Engineering Tutoring Services, Club Tennis, and Sling Health biotech incubator. In his free time, Kevin enjoys playing tennis and board games with friends on weekends. Kevin is also an avid hockey fan and proud supporter of the Columbus Blue Jackets, even though it can be painful most of the time. Kevin plans to follow the graduate school route and go into either research or industry for biomedical engineering.
 
 
+</div> </div>
 
-**Kevin Li** - 
 
-Kevin is a Sophomore BME major at WashU on the *10X healthspan/lifespan project*.
+<hr>
+
+**Sandeep Kumar, PhD** - 
+
+Sandeep is a Senior Scientist in the lab leading the *10X healthspan/lifespan project*.
+
+<hr>
+
+**Cheng Lyu** - 
+
+Cheng is a Biostatistics Master's student who is working on *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs.
+
+
 
 
 
@@ -127,7 +147,8 @@ Kevin is a Sophomore BME major at WashU on the *10X healthspan/lifespan project*
 
 **Harrison Rhee** - 
 
-Harrison is a Junior at WashU working on the CRISPRi screening.
+Harrison is a Junior at WashU working on the *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, Harrison is testing new drugs to determine whether they inhibit cell growth and therefore would make good candidates for CRISPRi screening.
+
 
 
 <hr>
