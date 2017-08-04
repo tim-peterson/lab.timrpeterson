@@ -119,7 +119,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/kevin-li-2.jpg" alt="Kevin Li" style="width: 200px;border-radius:4px;"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Kevin Li</b></h4> Kevin is a Junior BME major, Computer Science minor at WashU (Class of 2019) on the *10X healthspan/lifespan project*. He's interested in the biology of aging and the engineering principles in modulating stem cell gene expression.
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Kevin Li</b></h4> Kevin is a Junior BME major, Computer Science minor at WashU (Class of 2019) on the <em>10X healthspan/lifespan project</em>. He's interested in the biology of aging and the engineering principles in modulating stem cell gene expression.
 
 On campus, Kevin is involved in Campus Y volunteering, Engineering Tutoring Services, Club Tennis, and Sling Health biotech incubator. In his free time, Kevin enjoys playing tennis and board games with friends on weekends. Kevin is also an avid hockey fan and proud supporter of the Columbus Blue Jackets, even though it can be painful most of the time. Kevin plans to follow the graduate school route and go into either research or industry for biomedical engineering.
 
@@ -130,10 +130,10 @@ On campus, Kevin is involved in Campus Y volunteering, Engineering Tutoring Serv
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/sandeep-kumar.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
+<img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sandeep Kumar, PhD</b></h4> 
-Sandeep is a Senior Scientist in the lab leading the *10X healthspan/lifespan project*.
+Sandeep is a Senior Scientist in the lab leading the <em>10X healthspan/lifespan project</em>.
 
 
 </div> </div>
@@ -143,9 +143,17 @@ Sandeep is a Senior Scientist in the lab leading the *10X healthspan/lifespan pr
 
 <hr>
 
-**Cheng Lyu** - 
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/>
 
-Cheng is a Biostatistics Master's student who is working on *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs.
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Cheng Lyu</b></h4> 
+
+Cheng is a WashU Biostatistics Master's student who is working on *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs.
+
+
+</div> </div>
+
+
 
 
 
