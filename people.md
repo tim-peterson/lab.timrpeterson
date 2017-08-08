@@ -98,11 +98,12 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="http://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=200&d=identicon&r=PG" alt="Tim Peterson" style="width: 200px;border-radius:4px"/>
+<img src="/img/damon-burrow.png" alt="Tim Peterson" style="width: 200px;border-radius:4px"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b><a href="https://www.linkedin.com/damon-burrow-947126127"> Damon Burrow</a></b></h4> Damon is a new addition to the Tim Peterson Lab here at Washington University. Damon is a recent graduate of William Woods University in Fulton, MO where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. </div> </div>
 
 
+<!--http://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=200&d=identicon&r=PG-->
 
 <hr>
 
@@ -191,7 +192,7 @@ Melanie is a Junior at WashU on the *Molecular Diagnostic for Mood* project.
 
 **Niki Song** - 
 
-Niki graduated from WashU in 2016 with degree in Pyschology. She worked on the CRISPRi screening. She is now in medical school at New York Medical College.
+Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISPRi screening. She is now in medical school at New York Medical College.
 
 <hr>
 
