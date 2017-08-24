@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://timrpeterson.wustl.edu/lab/updates/2017/08/23/Summer-2017-updates.html</loc>
+    <lastmod>2017-08-23T09:30:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://timrpeterson.wustl.edu/skeletal-system/2016/08/29/bone-basics.html</loc>
     <lastmod>2016-08-29T09:30:00-05:00</lastmod>
   </url>
@@ -21,6 +25,9 @@
   </url>
   <url>
     <loc>http://timrpeterson.wustl.edu/about/</loc>
+  </url>
+  <url>
+    <loc>http://timrpeterson.wustl.edu/contact/</loc>
   </url>
   <url>
     <loc>http://timrpeterson.wustl.edu/gallery/</loc>

@@ -4,13 +4,48 @@
  <title>Tim R Peterson Lab</title>
  <link href="http://timrpeterson.wustl.edu/atom.xml" rel="self"/>
  <link href="http://timrpeterson.wustl.edu/"/>
- <updated>2017-08-04T14:06:45-05:00</updated>
+ <updated>2017-08-23T22:53:25-05:00</updated>
  <id>http://timrpeterson.wustl.edu</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Summer 2017 Updates</title>
+   <link href="http://timrpeterson.wustl.edu/lab/updates/2017/08/23/Summer-2017-updates.html"/>
+   <updated>2017-08-23T09:30:00-05:00</updated>
+   <id>http://timrpeterson.wustl.edu/lab/updates/2017/08/23/Summer-2017-updates</id>
+   <content type="html">&lt;h4 id=&quot;new-people&quot;&gt;New people&lt;/h4&gt;
+
+&lt;p&gt;Several new people joined the lab. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sandeep Kumar comes to us from Kerry Kornfeld’s lab. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Harrison Rhee and Cheng Lyu are students at WashU. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This summer we also had India Bradley, who was an Amgen Scholar, with us from Howard University.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;New funding from Amazon Web Services (AWS) to support the MORPHEOME and PubMed natural language processing projects. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New funding from the Nathan Shock Aging Center for the 10X Lifespan project. Ji Woong and Chris Chow wrote the AWS proposal, so congrats to them!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Bone basics</title>
