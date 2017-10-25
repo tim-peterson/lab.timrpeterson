@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tim R Peterson Lab</title>
- <link href="http://lab.timrpeterson.com/atom.xml" rel="self"/>
- <link href="http://lab.timrpeterson.com/"/>
- <updated>2016-08-29T22:19:55-05:00</updated>
- <id>http://lab.timrpeterson.com</id>
+ <link href="http://timrpeterson.wustl.edu/atom.xml" rel="self"/>
+ <link href="http://timrpeterson.wustl.edu/"/>
+ <updated>2017-08-23T22:53:25-05:00</updated>
+ <id>http://timrpeterson.wustl.edu</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,45 @@
 
  
  <entry>
+   <title>Summer 2017 Updates</title>
+   <link href="http://timrpeterson.wustl.edu/lab/updates/2017/08/23/Summer-2017-updates.html"/>
+   <updated>2017-08-23T09:30:00-05:00</updated>
+   <id>http://timrpeterson.wustl.edu/lab/updates/2017/08/23/Summer-2017-updates</id>
+   <content type="html">&lt;h4 id=&quot;new-people&quot;&gt;New people&lt;/h4&gt;
+
+&lt;p&gt;Several new people joined the lab. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sandeep Kumar comes to us from Kerry Kornfeld’s lab. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Harrison Rhee and Cheng Lyu are students at WashU. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This summer we also had India Bradley, who was an Amgen Scholar, with us from Howard University.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;New funding from Amazon Web Services (AWS) to support the MORPHEOME and PubMed natural language processing projects. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New funding from the Nathan Shock Aging Center for the 10X Lifespan project. Ji Woong and Chris Chow wrote the AWS proposal, so congrats to them!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Bone basics</title>
-   <link href="http://lab.timrpeterson.com/skeletal-system/2016/08/29/bone-basics.html"/>
+   <link href="http://timrpeterson.wustl.edu/skeletal-system/2016/08/29/bone-basics.html"/>
    <updated>2016-08-29T09:30:00-05:00</updated>
-   <id>http://lab.timrpeterson.com/skeletal-system/2016/08/29/bone-basics</id>
+   <id>http://timrpeterson.wustl.edu/skeletal-system/2016/08/29/bone-basics</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Bone basics&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;how-to-measure-bone-activity&quot;&gt;How to measure bone activity?&lt;/h4&gt;
@@ -34,9 +69,9 @@
  
  <entry>
    <title>Can mood be quantified?</title>
-   <link href="http://lab.timrpeterson.com/mental-health/2016/06/29/diagnostic-for-mood.html"/>
+   <link href="http://timrpeterson.wustl.edu/mental-health/2016/06/29/diagnostic-for-mood.html"/>
    <updated>2016-06-29T09:30:00-05:00</updated>
-   <id>http://lab.timrpeterson.com/mental-health/2016/06/29/diagnostic-for-mood</id>
+   <id>http://timrpeterson.wustl.edu/mental-health/2016/06/29/diagnostic-for-mood</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Towards A Molecular Diagnostic for Mood&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Can mood be quantified? &lt;/p&gt;
@@ -46,9 +81,9 @@
  
  <entry>
    <title>Can humans live to be 1000 years old?</title>
-   <link href="http://lab.timrpeterson.com/aging/2016/06/29/10x-lifespan-project.html"/>
+   <link href="http://timrpeterson.wustl.edu/aging/2016/06/29/10x-lifespan-project.html"/>
    <updated>2016-06-29T09:30:00-05:00</updated>
-   <id>http://lab.timrpeterson.com/aging/2016/06/29/10x-lifespan-project</id>
+   <id>http://timrpeterson.wustl.edu/aging/2016/06/29/10x-lifespan-project</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;10X Lifespan Project&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Can humans live to be 1000 years old?&lt;/p&gt;
@@ -58,9 +93,9 @@
  
  <entry>
    <title>Washington University School of Medicine St. Louis DBBS Faculty Poster Session</title>
-   <link href="http://lab.timrpeterson.com/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session.html"/>
+   <link href="http://timrpeterson.wustl.edu/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session.html"/>
    <updated>2015-08-18T09:30:00-05:00</updated>
-   <id>http://lab.timrpeterson.com/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session</id>
+   <id>http://timrpeterson.wustl.edu/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session</id>
    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=3728&quot;&gt;FULL INFO&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Seminar Information&lt;/strong&gt;&lt;/p&gt;
