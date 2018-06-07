@@ -91,7 +91,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/jinmei-li.jpg" alt="Jinmei Li" style="width: 200px;border-radius:4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jinmei Li (2016-current) </b></h4> Jinmei is the lab manager who leads the *Disruptive Innovation of Blockbuster drugs*.
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jinmei Li (2016-current) </b></h4> Jinmei is the lab manager who leads the <em>Disruptive Innovation of Blockbuster drugs</em>.
 
 </div> </div>
 
@@ -111,7 +111,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius:4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow (2016-current)</b></h4> Chris is working on the *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr* project. 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow (2016-current)</b></h4> Chris is working on the <em>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</em> project. 
 
 
 </div> </div>
@@ -139,7 +139,7 @@ Sandeep is a Senior Scientist in the lab leading the <em>10X healthspan/lifespan
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Cheng Lyu (2017-current)</b></h4> 
 
-Cheng is a WashU Biostatistics Master's student who is working on *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. Cheng will be pursuing his Ph.D. in biostatistics or computer science starting in the fall of 2018.
+Cheng is a WashU Biostatistics Master's student who is working on <em>Disruptive Innovation of Blockbuster drugs</em>. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. Cheng will be pursuing his Ph.D. in biostatistics or computer science starting in the fall of 2018.
 
 </div> </div>
 
@@ -150,7 +150,7 @@ Cheng is a WashU Biostatistics Master's student who is working on *Disruptive In
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Tanya LaPierre  (Summer 2018)</b></h4> 
 
-Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarship this summer with us.  She is working on *Disruptive Innovation of Blockbuster drugs* to characterize hits from our CRISPRi screening. 
+Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarship this summer with us.  She is working on <em>Disruptive Innovation of Blockbuster drugs</em> to characterize hits from our CRISPRi screening. 
 
 </div> </div>
 
@@ -162,19 +162,19 @@ Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarsh
 
 **Harrison Rhee** - 
 
-Harrison graduated from WashU in 2018 as an Anthropology major. He worked on the *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, Harrison used chemical genetic approaches to assess hits from our CRISPRi screening.
+Harrison graduated from WashU in 2018 as an Anthropology major. He worked on the <em>Disruptive Innovation of Blockbuster drugs</em> project. Specifically, Harrison used chemical genetic approaches to assess hits from our CRISPRi screening.
 
 <hr>
 
 **India Bradley** - 
 
-India worked in the Peterson lab the 2017 summer as an Amgen Scholar before her Junior year at Howard University. She worked on the *Molecular Diagnostic for Mood* project. 
+India worked in the Peterson lab the 2017 summer as an Amgen Scholar before her Junior year at Howard University. She worked on the <em>Molecular Diagnostic for Mood</em> project. 
 
 <hr>
 
 **Melanie Lopez** - 
 
-Melanie graduated from WashU in 2018. She worked with Harrison on the *Molecular Diagnostic for Mood* project.
+Melanie graduated from WashU in 2018. She worked with Harrison on the <em>Molecular Diagnostic for Mood* project</em>.
 
 <hr>
 
@@ -196,13 +196,13 @@ Kevin is a BME major, Computer Science minor at WashU (Class of 2019) who worked
 
 **Christina Gu** - 
 
-Christina graduated from WashU in 2017 with degree in Math. She worked on the *10X healthspan/lifespan project*.
+Christina graduated from WashU in 2017 with degree in Math. She worked on the <em>10X healthspan/lifespan project</em>.
 
 <hr>
 
 **Jay Jiang** - 
 
-Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on *MORPHEOME - Molecular ORPHan PhEnOtype MatchEr*. He is now in medical school.
+Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on <em>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</em>. He is now in medical school.
 
 <hr>
 
