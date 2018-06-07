@@ -91,7 +91,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/jinmei-li.jpg" alt="Jinmei Li" style="width: 200px;border-radius:4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jinmei Li (2016-current) </b></h4> Jinmei is the lab manager who leads the <em>Disruptive Innovation of Blockbuster drugs</em>.
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jinmei Li (2016-current) </b></h4> Jinmei is the lab manager who leads the <b>Disruptive Innovation of Blockbuster drugs</b>.
 
 </div> </div>
 
@@ -100,7 +100,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/damon-burrow.png" alt="Tim Peterson" style="width: 200px;border-radius:4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b><a href="https://www.linkedin.com/damon-burrow-947126127"> Damon Burrow (2016-current)</a></b></h4> Damon is a recent graduate of William Woods University in Fulton, MO where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. </div> </div>
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b><a href="https://www.linkedin.com/damon-burrow-947126127"> Damon Burrow (2016-current)</a></b></h4> Damon is a recent graduate of William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b>proejct.</div></div>
 
 
 <!--http://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=200&d=identicon&r=PG-->
@@ -111,7 +111,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius:4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow (2016-current)</b></h4> Chris is working on the <em>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</em> project. 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow (2016-current)</b></h4> Chris is working on the <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b> project. 
 
 
 </div> </div>
@@ -124,7 +124,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sandeep Kumar, PhD (2017-current)</b></h4> 
-Sandeep is a Senior Scientist in the lab leading the <em>10X healthspan/lifespan project</em>.
+Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan project</b>.
 
 
 </div> </div>
@@ -139,7 +139,7 @@ Sandeep is a Senior Scientist in the lab leading the <em>10X healthspan/lifespan
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Cheng Lyu (2017-current)</b></h4> 
 
-Cheng is a WashU Biostatistics Master's student who is working on <em>Disruptive Innovation of Blockbuster drugs</em>. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. Cheng will be pursuing his Ph.D. in biostatistics or computer science starting in the fall of 2018.
+Cheng is a WashU Biostatistics Master's student who is working on <b>Disruptive Innovation of Blockbuster drugs</b>. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. Cheng will be pursuing his Ph.D. in biostatistics or computer science starting in the fall of 2018.
 
 </div> </div>
 
@@ -150,7 +150,7 @@ Cheng is a WashU Biostatistics Master's student who is working on <em>Disruptive
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Tanya LaPierre  (Summer 2018)</b></h4> 
 
-Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarship this summer with us.  She is working on <em>Disruptive Innovation of Blockbuster drugs</em> to characterize hits from our CRISPRi screening. 
+Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarship this summer with us.  She is working on <b>Disruptive Innovation of Blockbuster drugs</b> to characterize hits from our CRISPRi screening. 
 
 </div> </div>
 
@@ -162,19 +162,19 @@ Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarsh
 
 **Harrison Rhee** - 
 
-Harrison graduated from WashU in 2018 as an Anthropology major. He worked on the <em>Disruptive Innovation of Blockbuster drugs</em> project. Specifically, Harrison used chemical genetic approaches to assess hits from our CRISPRi screening.
+Harrison graduated from WashU in 2018 as an Anthropology major. He worked on the <b>Disruptive Innovation of Blockbuster drugs</b> project. Specifically, Harrison used chemical genetic approaches to assess hits from our CRISPRi screening.
 
 <hr>
 
 **India Bradley** - 
 
-India worked in the Peterson lab the 2017 summer as an Amgen Scholar before her Junior year at Howard University. She worked on the <em>Molecular Diagnostic for Mood</em> project. 
+India worked in the Peterson lab the 2017 summer as an Amgen Scholar before her Junior year at Howard University. She worked on the <b>Molecular Diagnostic for Mood</b> project. 
 
 <hr>
 
 **Melanie Lopez** - 
 
-Melanie graduated from WashU in 2018. She worked with Harrison on the <em>Molecular Diagnostic for Mood* project</em>.
+Melanie graduated from WashU in 2018. She worked with Harrison on the <b>Molecular Diagnostic for Mood* project</b>.
 
 <hr>
 
@@ -191,18 +191,17 @@ Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISP
 Kevin is a BME major, Computer Science minor at WashU (Class of 2019) who worked in the 2017 academic year on the 10X healthspan/lifespan project.
 
 
-</div> </div>
 
 
 **Christina Gu** - 
 
-Christina graduated from WashU in 2017 with degree in Math. She worked on the <em>10X healthspan/lifespan project</em>.
+Christina graduated from WashU in 2017 with degree in Math. She worked on the <b>10X healthspan/lifespan project</b>.
 
 <hr>
 
 **Jay Jiang** - 
 
-Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on <em>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</em>. He is now in medical school.
+Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b>. He is now in medical school.
 
 <hr>
 
