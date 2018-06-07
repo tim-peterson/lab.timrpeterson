@@ -91,7 +91,7 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/jinmei-li.jpg" alt="Jinmei Li" style="width: 200px;border-radius:4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jinmei Li (2016-current) </b></h4> Jinmei is the lab manager who leads the *Disruptive Innovation of Blockbuster drugs using CRISPRi.*
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jinmei Li (2016-current) </b></h4> Jinmei is the lab manager who leads the *Disruptive Innovation of Blockbuster drugs*.
 
 </div> </div>
 
@@ -137,13 +137,22 @@ Sandeep is a Senior Scientist in the lab leading the <em>10X healthspan/lifespan
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Cheng Lyu</b></h4> 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Cheng Lyu (2017-current)</b></h4> 
 
-Cheng is a WashU Biostatistics Master's student who is working on *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs.
-
+Cheng is a WashU Biostatistics Master's student who is working on *Disruptive Innovation of Blockbuster drugs* using CRISPRi screening. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. Cheng will be pursuing his Ph.D. in biostatistics or computer science starting in the fall of 2018.
 
 </div> </div>
 
+
+<hr>
+
+<div class="media"> <div class="media-left"> <a href="#">
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Tanya LaPierre  (Summer 2018)</b></h4> 
+
+Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarship this summer with us.  She is working on *Disruptive Innovation of Blockbuster drugs* to characterize hits from our CRISPRi screening. 
+
+</div> </div>
 
 
 <br>
