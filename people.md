@@ -52,6 +52,15 @@ img {
 </style>
 
 
+
+<img src="/img/IMG_3381-summer2018-peterson-lab.jpeg" alt="Lab Summer 2018" style="width: 100%;border-radius:4px"/>
+
+<h3 style="text-align:center">Summer 2018</h3>
+
+<br>
+<br>
+
+
 <img src="/img/IMG_7537-lab080317.JPG" alt="Lab Summer 2017" style="width: 100%;border-radius:4px"/>
 
 <h3 style="text-align:center">Summer 2017</h3>
@@ -70,9 +79,6 @@ My WashU page is available <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_
 
 
 <hr>
-
-
-
 
 
 <div class="media"> <div class="media-left"> <a href="#">
