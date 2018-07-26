@@ -1,50 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://timrpeterson.wustl.edu/lab/updates/2017/08/23/Summer-2017-updates.html</loc>
-    <lastmod>2017-08-23T09:30:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/skeletal-system/2016/08/29/bone-basics.html</loc>
-    <lastmod>2016-08-29T09:30:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/mental-health/2016/06/29/diagnostic-for-mood.html</loc>
-    <lastmod>2016-06-29T09:30:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/aging/2016/06/29/10x-lifespan-project.html</loc>
-    <lastmod>2016-06-29T09:30:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session.html</loc>
-    <lastmod>2015-08-18T09:30:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/404.html</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/about/</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/contact/</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/gallery/</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/join/</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/people/</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/presentations/</loc>
-  </url>
-  <url>
-    <loc>http://timrpeterson.wustl.edu/publications/</loc>
-  </url>
+<url>
+<loc>http://localhost:4000/wusm/wustl/faculty/poster/session/2015/08/18/wusm-wustl-dbbs-faculty-poster-session.html</loc>
+<lastmod>2015-08-18T09:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/aging/2016/06/29/10x-lifespan-project.html</loc>
+<lastmod>2016-06-29T09:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mental-health/2016/06/29/diagnostic-for-mood.html</loc>
+<lastmod>2016-06-29T09:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/skeletal-system/2016/08/29/bone-basics.html</loc>
+<lastmod>2016-08-29T09:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/lab/updates/2017/08/23/Summer-2017-updates.html</loc>
+<lastmod>2017-08-23T09:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/gallery/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/join/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/people/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/presentations/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publications/</loc>
+</url>
 </urlset>
