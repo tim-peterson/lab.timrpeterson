@@ -4,13 +4,45 @@
  <title>Tim R Peterson Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-26T19:00:59-05:00</updated>
+ <updated>2019-01-08T11:58:14-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Cell growth is an omniphenotype [Biorxiv].</title>
+   <link href="http://localhost:4000/manuscript/2018/12/05/Omniphenotype.html"/>
+   <updated>2018-12-05T08:30:00-06:00</updated>
+   <id>http://localhost:4000/manuscript/2018/12/05/Omniphenotype</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;hhttps://www.biorxiv.org/content/early/2018/12/05/487157&quot;&gt;https://www.biorxiv.org/content/early/2018/12/05/487157&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cell growth is an omniphenotype
+Nick Jacobs, Ji Woong Park, Tim Peterson
+bioRxiv 487157; doi: &lt;a href=&quot;https://doi.org/10.1101/487157&quot;&gt;https://doi.org/10.1101/487157&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Genotype-phenotype relationships are at the heart of biology and medicine. Numerous advances in genotyping and phenotyping have accelerated the pace of disease gene and drug discovery. Though now that there are so many genes and drugs to study, it makes prioritizing them difficult. Also, disease model assays are getting more complex and this is reflected in the growing complexity of research papers and the cost of drug development. Herein we propose a way out of this arms race. We argue for synthetic interaction testing in mammalian cells using cell growth - changes in cell number that could be due to a number of factors - as a readout to judge the potential of a genetic or environmental variable of interest (e.g., a gene or drug). That is, if a gene or drug of interest is combined with a known perturbation and causes a strong cell growth phenotype relative to that caused by the known perturbation alone, this justifies proceeding with the gene/drug in more complex models like mouse models where the known perturbation is already validated. This recommendation is backed by the following: 1) Genes required for cell growth involve nearly all classifications of cellular and molecular processes; 2) Nearly all genes important in cancer - a disease defined by altered cell number - are also important in other complex diseases; 3) Patient condition and patient cell growth responses to many drugs are comparable. Taken together, these findings suggest cell growth could be broadly applicable phenotype for understanding gene and drug function. Measuring cell growth is robust, and requires little time and money. These are features that have long been capitalized on by pioneers using model organisms that we hope more mammalian biologists will recognize.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ATRAID, a genetic factor that regulates the clinical action of nitrogen-containing bisphosphonates on bone [Biorxiv].</title>
+   <link href="http://localhost:4000/manuscript/2018/06/04/ATRAID.html"/>
+   <updated>2018-06-04T09:30:00-05:00</updated>
+   <id>http://localhost:4000/manuscript/2018/06/04/ATRAID</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.biorxiv.org/content/early/2018/06/04/338350&quot;&gt;https://www.biorxiv.org/content/early/2018/06/04/338350&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lauren Surface, JiWoong Park, Sandeep Kumar, Damon Burrow, Cheng Lyu, Jinmei Li, Niki Song, Zhou Yu, Abbhirami Rajagopal, Yangjin Bae, Brendan Lee, Steven Mumm, Gabe Haller, Charles Gu, Jonathan Baker, Mahshid Mohseni, Melissa Sum, Margaret Huskey, Shenghui Duan, Vinieth Bijanki, Roberto Civitelli, Michael Gardner, Chris McAndrew, William Ricci, Christina Gurnett, Kathryn Diemer, Jan Carette, Malini Varadarajan, Thijn Brummelkamp, Kivanc Birsoy, David Sabatini, Erin O’Shea, Tim Peterson&lt;/p&gt;
+
+&lt;p&gt;bioRxiv 338350; doi: &lt;a href=&quot;https://doi.org/10.1101/338350&quot;&gt;https://doi.org/10.1101/338350&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nitrogen-containing bisphosphonates (N-BPs), such as alendronate (Fosamax), are the mostly widely prescribed medications for diseases involving bone, with nearly 200 million prescriptions written annually. In the last few years, widespread use of N-BPs has been challenged due to the risk of rare but significant side effects such as atypical femoral fractures and osteonecrosis of the jaw. N-BPs bind to and inhibit farnesyl diphosphate synthase (FDPS), resulting in defects in protein prenylation. Yet it remains poorly understood what other cellular targets N-BPs might have. Herein, we perform genome-wide studies in cells and patients to identify the gene, ATRAID, that functions with FDPS in a novel pathway we name the TBONE (Target of Bisphosphonates) pathway. Loss of ATRAID function results in selective resistance to NBP-mediated loss of cell viability and the prevention of alendronate-mediated inhibition of prenylation. ATRAID is required for alendronate inhibition of osteoclast function, and ATRAID-deficient mice have impaired therapeutic responses to alendronate in a model of postmenopausal osteoporosis. Our work adds key insight into the mechanistic action of N-BPs and the processes that might underlie differential responsiveness to N-BPs in people.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Summer 2017 Updates</title>
