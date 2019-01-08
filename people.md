@@ -117,12 +117,9 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius:4px"/>
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow (2016-current)</b></h4> Chris is working on the <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b> project. 
-
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow (2016-current)</b></h4> Chris is working on the <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b> project. Chris is now a Senior at WashU.
 
 </div> </div>
-
-
 
 <hr>
 
@@ -130,23 +127,18 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sandeep Kumar, PhD (2017-current)</b></h4> 
-Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan project</b>.
-
+Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan</b> and <b>Molecular Diagnostic for Mood</b> projects. He comes from a worm background with Kerry Kornfeld. He is doing CRISPRi screening with Jinmei. 
 
 </div> </div>
-
-
-
 
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/>
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Cheng Lyu (2017-current)</b></h4> 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Jacobs (2018-current)</b></h4> 
 
-Cheng is a WashU Biostatistics Master's student who is working on <b>Disruptive Innovation of Blockbuster drugs</b>. Specifically, he is doing statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. Cheng will be pursuing his Ph.D. in biostatistics or computer science starting in the fall of 2018.
-
+Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who is working with us jointly with Fuhai Li at the Institute for Informatics at WashU. He is working on understanding the genic relationship between diseases and drugs. His work is part of our <b>Disruptive Innovation of Blockbuster drugs</b> effort and has relevance for drug repositioning.
 </div> </div>
 
 
@@ -154,9 +146,9 @@ Cheng is a WashU Biostatistics Master's student who is working on <b>Disruptive 
 
 <div class="media"> <div class="media-left"> <a href="#">
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Tanya LaPierre  (Summer 2018)</b></h4> 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sydney Hart (2017-Current)</b></h4> 
 
-Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarship this summer with us.  She is working on the <b>Disruptive Innovation of Blockbuster drugs</b> project to characterize hits from our CRISPRi screening. 
+Sydney is a Senior at WashU who is interested in neuroscience.  She is working on the <b>Molecular Diagnostic for Mood</b> project to characterize hits from our CRISPRi screening with the selective serotonin reuptake inhibitors (SSRIs). Specifically, she is working on the mechanism of SSRI action with Sandeep.
 
 </div> </div>
 
@@ -165,6 +157,18 @@ Tanya is a rising Junior at Agnes Scott College who is doing her Amgen Scholarsh
 <br>
 
 <h3>Former lab members</h3>
+
+**Tanya LaPierre** –
+
+Tanya worked with us during the Summer of 2018 on an Amgen Scholarship before her Junior at Agnes Scott College.  She worked on the Molecular Diagnostic for Mood and MORPHEOME projects to characterize hits from our CRISPRi screening. 
+
+<hr>
+
+**Cheng Lyu** –
+
+Cheng graduated from WashU with a Master's in biostatistics in 2018. He worked on Disruptive Innovation of Blockbuster drugs. Specifically, he did statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. He is currently a Ph.D. student at Emory University.
+
+<hr>
 
 **Harrison Rhee** - 
 
@@ -196,8 +200,7 @@ Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISP
 
 Kevin is a BME major, Computer Science minor at WashU (Class of 2019) who worked in the 2017 academic year on the 10X healthspan/lifespan project.
 
-
-
+<hr>
 
 **Christina Gu** - 
 
