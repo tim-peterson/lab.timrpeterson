@@ -104,12 +104,26 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/damon-burrow.png" alt="Tim Peterson" style="width: 200px;border-radius:4px"/>
+<img src="/img/damon-burrow.png" alt="Damon Burrow" style="width: 200px;border-radius:4px"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b><a href="https://www.linkedin.com/damon-burrow-947126127"> Damon Burrow (2016-current)</a></b></h4> Damon is a recent graduate of William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project.</div></div>
 
 
 <!--http://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=200&d=identicon&r=PG-->
+
+
+<hr>
+
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/sarah-diemer.jpg" alt="Sarah Seberg Diemar " style="width: 200px;border-radius:4px"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b> Sarah Seberg Diemar (January – May 2019)</b></h4> Sarah is an MD and PhD student from Denmark spending 5 months in the Peterson Lab as a part of her PhD program.
+In those months Sarah will be working on CRISPRa screening with Jinmei and Ji.
+Back home Sarah works with the pathophysiology of secondary osteoporosis in patients with epilepsy in the P2 Lab.</div></div>
+
+
+ 
+
 
 <hr>
 

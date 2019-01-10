@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ATRAID, a genetic factor that regulates the clinical action of nitrogen-containing bisphosphonates on bone [Biorxiv].
+title:  ATRAID, a genetic factor that regulates the action of nitrogen-containing bisphosphonates on bone [Biorxiv].
 date:   2018-06-04 14:30:00
 categories: manuscript
 comments: True
@@ -10,7 +10,7 @@ comments: True
 
 [https://www.biorxiv.org/content/early/2018/06/04/338350](https://www.biorxiv.org/content/early/2018/06/04/338350)
 
-Lauren Surface, JiWoong Park, Sandeep Kumar, Damon Burrow, Cheng Lyu, Jinmei Li, Niki Song, Zhou Yu, Abbhirami Rajagopal, Yangjin Bae, Brendan Lee, Steven Mumm, Gabe Haller, Charles Gu, Jonathan Baker, Mahshid Mohseni, Melissa Sum, Margaret Huskey, Shenghui Duan, Vinieth Bijanki, Roberto Civitelli, Michael Gardner, Chris McAndrew, William Ricci, Christina Gurnett, Kathryn Diemer, Jan Carette, Malini Varadarajan, Thijn Brummelkamp, Kivanc Birsoy, David Sabatini, Erin O'Shea, Tim Peterson
+Lauren Surface, JiWoong Park, Sandeep Kumar, Damon Burrow, Cheng Lyu, Jinmei Li, Niki Song, Zhou Yu, Abbhirami Rajagopal, Yangjin Bae, Brendan Lee, Steven Mumm, Gabe Haller, Charles Gu, Jonathan Baker, Mahshid Mohseni, Melissa Sum, Margaret Huskey, Shenghui Duan, Vinieth Bijanki, Roberto Civitelli, Michael Gardner, Chris McAndrew, William Ricci, Christina Gurnett, Kathryn Diemer, Jan Carette, Malini Varadarajan, Thijn Brummelkamp, Kivanc Birsoy, David Sabatini, Tim Peterson
 
 bioRxiv 338350; doi: [https://doi.org/10.1101/338350](https://doi.org/10.1101/338350)
 
