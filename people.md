@@ -160,6 +160,9 @@ Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who
 
 <div class="media"> <div class="media-left"> <a href="#">
 
+<img src="/img/sydney-hart.jpg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/>
+
+
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sydney Hart (2017-Current)</b></h4> 
 
 Sydney is a Senior at WashU who is interested in neuroscience.  She is working on the <b>Molecular Diagnostic for Mood</b> project to characterize hits from our CRISPRi screening with the selective serotonin reuptake inhibitors (SSRIs). Specifically, she is working on the mechanism of SSRI action with Sandeep.
@@ -172,7 +175,7 @@ Sydney is a Senior at WashU who is interested in neuroscience.  She is working o
 
 <h3>Former lab members</h3>
 
-**Tanya LaPierre** –
+**Tanya Pierre** –
 
 Tanya worked with us during the Summer of 2018 on an Amgen Scholarship before her Junior at Agnes Scott College.  She worked on the Molecular Diagnostic for Mood and MORPHEOME projects to characterize hits from our CRISPRi screening. 
 
