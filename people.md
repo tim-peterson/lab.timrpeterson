@@ -81,17 +81,6 @@ My WashU page is available <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_
 <hr>
 
 
-<div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/ji-woong-park.png" alt="Ji Woong Park" style="width: 200px;border-radius:4px"/>
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ji Woong Park (2016-current) </b></h4> Ji is a DBBS PhD student working on <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b>.
-
-Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate student in Peterson Lab. Ji graduated from Washington & Jefferson College with B.A. in Chemistry with Honors and minor in Neuroscience. His previous research experiences span cardiovascular molecular biology (Cincinnati College of Medicine), biophysical instrumentation (W&J), and protein biochemistry in axon degeneration (Wash U Med). Ji is leading MORPHEOME - Molecular ORPHan PhEnOtype MatchEr project and involved in establishing computational pipeline combined with wet-lab validation to elucidate novel genes in osteoporosis and depression. He is passionate about coding and is involved with LaunchCode in STL. In his spare time, he is an avid foodie (with photos to prove) and has been to 5 ramen restaurants in STL (Robata, Nami, Midtown, Death in the Afternoon, and Vista).
-</div> </div>
-
-
-
-<hr>
 
 
 <div class="media"> <div class="media-left"> <a href="#">
@@ -101,41 +90,6 @@ Ji Woong ("Ji") Park is a 4th year Molecular Cell Biology (DBBS) PhD graduate st
 
 </div> </div>
 
-<hr>
-
-<div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/damon-burrow.png" alt="Damon Burrow" style="width: 200px;border-radius:4px"/>
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b><a href="https://www.linkedin.com/damon-burrow-947126127"> Damon Burrow (2016-current)</a></b></h4> Damon is a recent graduate of William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project.</div></div>
-
-
-<!--http://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=200&d=identicon&r=PG-->
-
-
-<hr>
-
-<div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/sarah-diemer.jpg" alt="Sarah Seberg Diemar " style="width: 200px;border-radius:4px"/>
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b> Sarah Seberg Diemar (January – May 2019)</b></h4> Sarah is an MD and PhD student from Denmark spending 5 months in the Peterson Lab as a part of her PhD program.
-In those months Sarah will be working on CRISPRa screening with Jinmei and Ji.
-Back home Sarah works with the pathophysiology of secondary osteoporosis in patients with epilepsy in the P2 Lab.</div></div>
-
-
- 
-
-
-<hr>
-
-
-<div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/chris-chow.jpg" alt="Chris Chow" style="width: 200px;border-radius:4px"/>
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Chris Chow (2016-current)</b></h4> Chris is working on the <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b> project. Chris is now a Senior at WashU.
-
-</div> </div>
-
-<hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
@@ -158,6 +112,41 @@ Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who
 
 <hr>
 
+
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nicholas Bean, PhD (2019-current)</b></h4> 
+Nick is leading our animals studies and in particular is working on our <b>TBONE project</b>. He is a recent graduate of the University of Missouri. 
+
+</div> </div>
+
+<hr>
+
+
+<div class="media"> <div class="media-left"> <a href="#">
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ariella Coler-Reilly (2019-current)</b></h4> 
+
+Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular & Cellular Biology (MCB). She is leading our <b>10X Lifespan project</b> effort.
+</div> </div>
+
+
+<hr>
+
+
+<div class="media"> <div class="media-left"> <a href="#">
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Semenkovich (2019-current)</b></h4> 
+
+Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster drugs</b> effort.
+</div> </div>
+
+
+<hr>
+
 <div class="media"> <div class="media-left"> <a href="#">
 
 <img src="/img/sydney-hart.jpg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/>
@@ -175,57 +164,90 @@ Sydney is a Senior at WashU who is interested in neuroscience.  She is working o
 
 <h3>Former lab members</h3>
 
-**Tanya Pierre** –
+**JiWoong Park (2016-2019)** - 
+
+Ji Woong ("Ji") Park defended his Ph.D. thesis in August 2019. He was a Molecular Cell Biology (DBBS) PhD graduate student in the Peterson Lab. He now works as a data scientist at Humana. Ji graduated from Washington & Jefferson College with B.A. in Chemistry with Honors and minor in Neuroscience. His previous research experiences span cardiovascular molecular biology (Cincinnati College of Medicine), biophysical instrumentation (W&J), and protein biochemistry in axon degeneration (Wash U Med). Ji led MORPHEOME - Molecular ORPHan PhEnOtype MatchEr project and was involved in establishing computational pipeline combined with wet-lab validation to elucidate novel genes in osteoporosis and depression. He is passionate about coding and is involved with LaunchCode in STL. In his spare time, he is an avid foodie (with photos to prove) and has been to 5 ramen restaurants in STL (Robata, Nami, Midtown, Death in the Afternoon, and Vista).
+
+
+**Damon Burrow (2016-2019)** -
+
+Damon is currently a BME Ph.D student startin in the Fall of 2019. Damon graduated from William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project. He focused on the TBONE project.
+
+
+**Sarah Diemer (January-May 2019)** –
+
+Sarah is an MD and PhD student from Denmark who spent 5 months in the Peterson Lab as a part of her PhD program. In those months Sarah worked on CRISPRa screening with Jinmei and Ji. Back home Sarah works with the pathophysiology of secondary osteoporosis in patients with epilepsy in the P2 Lab.
+
+<hr>
+
+
+**Sydney Hart (2017-2019)** –
+
+Chris was the first undergraduate to join the lab back in 2016. He worked for three years on the <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b> project. He graduated from WashU in 2019 and will be applying to medical school in 2020.
+
+
+<hr>
+
+
+**Chris Chow (2016-2019)** –
+
+Chris was the first undergraduate to join the lab back in 2016. He worked for three years on the <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b> project. He graduated from WashU in 2019 and will be applying to medical school in 2020.
+
+
+<hr>
+
+
+**Tanya Pierre (2018)** –
 
 Tanya worked with us during the Summer of 2018 on an Amgen Scholarship before her Junior at Agnes Scott College.  She worked on the Molecular Diagnostic for Mood and MORPHEOME projects to characterize hits from our CRISPRi screening. 
 
 <hr>
 
-**Cheng Lyu** –
+**Cheng Lyu (2017-2018)** –
 
 Cheng graduated from WashU with a Master's in biostatistics in 2018. He worked on Disruptive Innovation of Blockbuster drugs. Specifically, he did statistical analysis to determine whether the genes we identify in screening with clinical drugs using CRISPRi are also variant in people with altered drug responses to the drugs. He is currently a Ph.D. student at Emory University.
 
 <hr>
 
-**Harrison Rhee** - 
+**Harrison Rhee (2017-2018)** - 
 
 Harrison graduated from WashU in 2018 as an Anthropology major. He worked on the Disruptive Innovation of Blockbuster drugs project. Specifically, Harrison used chemical genetic approaches to assess hits from our CRISPRi screening.
 
 <hr>
 
-**India Bradley** - 
+**India Bradley (2017)** - 
 
 India worked in the Peterson lab the 2017 summer as an Amgen Scholar before her Junior year at Howard University. She worked on the Molecular Diagnostic for Mood project. 
 
 <hr>
 
-**Melanie Lopez** - 
+**Melanie Lopez (2017-2018)** - 
 
 Melanie graduated from WashU in 2018. She worked with Harrison on the Molecular Diagnostic for Mood project</b>.
 
 <hr>
 
 
-**Niki Song** - 
+**Niki Song (2016-2017)** - 
 
 Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISPRi screening. She is now in medical school at New York Medical College.
 
 <hr>
 
-**Kevin Li** - 
+**Kevin Li (2017)** - 
 
 
 Kevin is a BME major, Computer Science minor at WashU (Class of 2019) who worked in the 2017 academic year on the 10X healthspan/lifespan project.
 
 <hr>
 
-**Christina Gu** - 
+**Christina Gu (2017)** - 
 
 Christina graduated from WashU in 2017 with degree in Math. She worked on the 10X healthspan/lifespan project.
 
 <hr>
 
-**Jay Jiang** - 
+**Jay Jiang (2017)** - 
 
 Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on MORPHEOME - Molecular ORPHan PhEnOtype MatchEr. He is now in medical school.
 
