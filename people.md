@@ -90,6 +90,7 @@ My WashU page is available <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_
 
 </div> </div>
 
+<hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
 <img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
@@ -158,7 +159,7 @@ Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster
 
 **JiWoong Park (2016-2019)** - 
 
-Ji Woong ("Ji") Park defended his Ph.D. thesis in August 2019. He was a Molecular Cell Biology (DBBS) PhD graduate student in the Peterson Lab. He now works as a data scientist at Humana. Ji graduated from Washington & Jefferson College with B.A. in Chemistry with Honors and minor in Neuroscience. His previous research experiences span cardiovascular molecular biology (Cincinnati College of Medicine), biophysical instrumentation (W&J), and protein biochemistry in axon degeneration (Wash U Med). Ji led MORPHEOME - Molecular ORPHan PhEnOtype MatchEr project and was involved in establishing computational pipeline combined with wet-lab validation to elucidate novel genes in osteoporosis and depression. He is passionate about coding and is involved with LaunchCode in STL. In his spare time, he is an avid foodie (with photos to prove) and has been to 5 ramen restaurants in STL (Robata, Nami, Midtown, Death in the Afternoon, and Vista).
+Ji Woong ("Ji") Park defended his Ph.D. thesis in August 2019. He was a Molecular Cell Biology (DBBS) PhD graduate student in the Peterson Lab. He now works as a data scientist at Humana. Ji graduated from Washington & Jefferson College with B.A. in Chemistry with Honors and minor in Neuroscience. His previous research experiences span cardiovascular molecular biology (Cincinnati College of Medicine), biophysical instrumentation (W&J), and protein biochemistry in axon degeneration (Wash U Med). Ji led the MORPHEOME - Molecular ORPHan PhEnOtype MatchEr project and was involved in establishing computational pipeline combined with wet-lab validation to elucidate novel genes in osteoporosis and depression. He is passionate about coding and was involved with LaunchCode in STL. In his spare time, he is an avid foodie (with photos to prove) and has been to 5 ramen restaurants in STL (Robata, Nami, Midtown, Death in the Afternoon, and Vista).
 
 <hr>
 
