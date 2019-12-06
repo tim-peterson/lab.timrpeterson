@@ -1,0 +1,23 @@
+---
+layout: post
+title:  ATRAID, a genetic factor that regulates the action of nitrogen-containing bisphosphonates on bone [Biorxiv].
+date:   2018-06-04 14:30:00
+categories: manuscript
+comments: True
+
+
+
+---
+
+[https://www.biorxiv.org/content/early/2018/06/04/338350](https://www.biorxiv.org/content/early/2018/06/04/338350)
+
+Lauren Surface, JiWoong Park, Sandeep Kumar, Damon Burrow, Cheng Lyu, Jinmei Li, Niki Song, Zhou Yu, Abbhirami Rajagopal, Yangjin Bae, Brendan Lee, Steven Mumm, Gabe Haller, Charles Gu, Jonathan Baker, Mahshid Mohseni, Melissa Sum, Margaret Huskey, Shenghui Duan, Vinieth Bijanki, Roberto Civitelli, Michael Gardner, Chris McAndrew, William Ricci, Christina Gurnett, Kathryn Diemer, Jan Carette, Malini Varadarajan, Thijn Brummelkamp, Kivanc Birsoy, David Sabatini, Tim Peterson
+
+bioRxiv 338350; doi: [https://doi.org/10.1101/338350](https://doi.org/10.1101/338350)
+
+
+Nitrogen-containing bisphosphonates (N-BPs), such as alendronate (Fosamax), are the mostly widely prescribed medications for diseases involving bone, with nearly 200 million prescriptions written annually. In the last few years, widespread use of N-BPs has been challenged due to the risk of rare but significant side effects such as atypical femoral fractures and osteonecrosis of the jaw. N-BPs bind to and inhibit farnesyl diphosphate synthase (FDPS), resulting in defects in protein prenylation. Yet it remains poorly understood what other cellular targets N-BPs might have. Herein, we perform genome-wide studies in cells and patients to identify the gene, ATRAID, that functions with FDPS in a novel pathway we name the TBONE (Target of Bisphosphonates) pathway. Loss of ATRAID function results in selective resistance to NBP-mediated loss of cell viability and the prevention of alendronate-mediated inhibition of prenylation. ATRAID is required for alendronate inhibition of osteoclast function, and ATRAID-deficient mice have impaired therapeutic responses to alendronate in a model of postmenopausal osteoporosis. Our work adds key insight into the mechanistic action of N-BPs and the processes that might underlie differential responsiveness to N-BPs in people.
+
+
+
+
