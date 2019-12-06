@@ -113,13 +113,14 @@ Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who
 <hr>
 
 
+
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nicholas Bean, PhD (2019-current)</b></h4> 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nicholas Bean (2019-current)</b></h4> 
 Nick is leading our animals studies and in particular is working on our <b>TBONE project</b>. He is a recent graduate of the University of Missouri. 
-
 </div> </div>
+
 
 <hr>
 
@@ -147,16 +148,7 @@ Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster
 
 <hr>
 
-<div class="media"> <div class="media-left"> <a href="#">
 
-<img src="/img/sydney-hart.jpg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/>
-
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sydney Hart (2017-Current)</b></h4> 
-
-Sydney is a Senior at WashU who is interested in neuroscience.  She is working on the <b>Molecular Diagnostic for Mood</b> project to characterize hits from our CRISPRi screening with the selective serotonin reuptake inhibitors (SSRIs). Specifically, she is working on the mechanism of SSRI action with Sandeep.
-
-</div> </div>
 
 
 <br>
@@ -168,11 +160,13 @@ Sydney is a Senior at WashU who is interested in neuroscience.  She is working o
 
 Ji Woong ("Ji") Park defended his Ph.D. thesis in August 2019. He was a Molecular Cell Biology (DBBS) PhD graduate student in the Peterson Lab. He now works as a data scientist at Humana. Ji graduated from Washington & Jefferson College with B.A. in Chemistry with Honors and minor in Neuroscience. His previous research experiences span cardiovascular molecular biology (Cincinnati College of Medicine), biophysical instrumentation (W&J), and protein biochemistry in axon degeneration (Wash U Med). Ji led MORPHEOME - Molecular ORPHan PhEnOtype MatchEr project and was involved in establishing computational pipeline combined with wet-lab validation to elucidate novel genes in osteoporosis and depression. He is passionate about coding and is involved with LaunchCode in STL. In his spare time, he is an avid foodie (with photos to prove) and has been to 5 ramen restaurants in STL (Robata, Nami, Midtown, Death in the Afternoon, and Vista).
 
+<hr>
 
 **Damon Burrow (2016-2019)** -
 
 Damon is currently a BME Ph.D student startin in the Fall of 2019. Damon graduated from William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project. He focused on the TBONE project.
 
+<hr>
 
 **Sarah Diemer (January-May 2019)** –
 
@@ -183,7 +177,7 @@ Sarah is an MD and PhD student from Denmark who spent 5 months in the Peterson L
 
 **Sydney Hart (2017-2019)** –
 
-Chris was the first undergraduate to join the lab back in 2016. He worked for three years on the <b>MORPHEOME - Molecular ORPHan PhEnOtype MatchEr</b> project. He graduated from WashU in 2019 and will be applying to medical school in 2020.
+Sydney graduated from WashU in 2019. She worked on the <b>Molecular Diagnostic for Mood</b> project to characterize hits from our CRISPRi screening with the selective serotonin reuptake inhibitors (SSRIs). Specifically, she worked on the mechanism of SSRI action with Sandeep. She now works at Mount Sinai in New York and is applying to Ph.D. programs.
 
 
 <hr>
