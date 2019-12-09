@@ -103,6 +103,19 @@ Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan<
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/ariella-coler-reilly.jpeg" alt="Ariella Coler Reilly" style="width: 200px;border-radius:4px;"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ariella Coler-Reilly (2019-current)</b></h4> 
+
+Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular & Cellular Biology (MCB). She is leading our <b>10X Lifespan project</b> effort.
+</div> </div>
+
+
+
+
+<hr>
+
+<div class="media"> <div class="media-left"> <a href="#">
 <!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Jacobs (2018-current)</b></h4> 
@@ -126,16 +139,6 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 <hr>
 
 
-<div class="media"> <div class="media-left"> <a href="#">
-<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ariella Coler-Reilly (2019-current)</b></h4> 
-
-Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular & Cellular Biology (MCB). She is leading our <b>10X Lifespan project</b> effort.
-</div> </div>
-
-
-<hr>
 
 
 <div class="media"> <div class="media-left"> <a href="#">

@@ -12,7 +12,7 @@ Co-PIs: Tim Peterson, [Brian Finck](https://diabetesresearchcenter.dom.wustl.edu
 
 
 
-Our company, [Bio-I/O](http://bioio.tech), was recently awarded a [fast-track STTR grant](https://sbir.nih.gov/funding) from the NIDDK for Novel type II diabetes and NASH drugs we are developing.
+Our company, [Bio-I/O](http://bioio.tech), was recently awarded a [fast-track STTR grant](https://sbir.nih.gov/funding) from the NIDDK for Novel type II diabetes and non-alcohlic steatohepatitis (NASH) drugs we are developing.
 
 
 
