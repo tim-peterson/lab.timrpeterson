@@ -93,7 +93,7 @@ My WashU page is available <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
+<img src="/img/sandeep-kumar-3.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sandeep Kumar, PhD (2017-current)</b></h4> 
 Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan</b> and <b>Molecular Diagnostic for Mood</b> projects. He comes from a worm background with Kerry Kornfeld. He is doing CRISPRi screening with Jinmei. 
@@ -103,16 +103,18 @@ Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan<
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/ariella-coler-reilly.jpeg" alt="Ariella Coler Reilly" style="width: 200px;border-radius:4px;"/>
+<img src="/img/ariella-coler-reilly-crop.jpg" alt="Ariella Coler Reilly" style="width: 200px;border-radius:4px;"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ariella Coler-Reilly (2019-current)</b></h4> 
 
-Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular & Cellular Biology (MCB). She is leading our <b>10X Lifespan project</b> effort.
+Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular Cell Biology (MCB). She is interested in developing interventions targeting the aging process and is currently leading our <b>10X Lifespan project</b> effort. Ariella graduated from UC Berkeley with a B.A. in Molecular & Cell Biology and a minor in Japanese. Her previous research experiences include studying aging in neural stem cells at Weill Cornell and neural genome organizers at Lawrence Berkeley National Lab. She also worked in a translational research lab in Japan as the only English-speaker, developing her skills in science writing and translation. In her spare time, she enjoys painting and graphic design. She has an extremely cute cat.
+
 </div> </div>
 
 
+1R01AG068164-01 GRANT12946596   Dietary lipids and sugars in age-related bone loss and treatment response
 
-
+GM137625-
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
