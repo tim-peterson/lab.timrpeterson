@@ -112,9 +112,6 @@ Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular 
 </div> </div>
 
 
-1R01AG068164-01 GRANT12946596   Dietary lipids and sugars in age-related bone loss and treatment response
-
-GM137625-
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
