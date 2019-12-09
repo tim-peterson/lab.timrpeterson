@@ -51,6 +51,12 @@ img {
 
 </style>
 
+<img src="/img/Peterson_lab_people_May2019-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
+
+<h3 style="text-align:center">Summer 2019</h3>
+
+<br>
+<br>
 
 
 <img src="/img/IMG_3381-summer2018-peterson-lab.jpeg" alt="Lab Summer 2018" style="width: 100%;border-radius:4px"/>
