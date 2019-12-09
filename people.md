@@ -117,6 +117,19 @@ Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular 
 <div class="media"> <div class="media-left"> <a href="#">
 <!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jasmine Zhang (2019-current)</b></h4> 
+
+Jasmine is a Senior at WashU who is doing her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine plans to go to medical school following graduation.
+</div> </div>
+
+
+<hr>
+
+
+
+<div class="media"> <div class="media-left"> <a href="#">
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
+
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Jacobs (2018-current)</b></h4> 
 
 Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who is working with us jointly with Fuhai Li at the Institute for Informatics at WashU. He is working on understanding the genic relationship between diseases and drugs. His work is part of our <b>Disruptive Innovation of Blockbuster drugs</b> effort and has relevance for drug repositioning.
