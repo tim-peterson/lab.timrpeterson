@@ -67,6 +67,7 @@ img {
 <br>
 
 
+
 <img src="/img/IMG_7537-lab080317.JPG" alt="Lab Summer 2017" style="width: 100%;border-radius:4px"/>
 
 <h3 style="text-align:center">Summer 2017</h3>
@@ -118,7 +119,20 @@ Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular 
 </div> </div>
 
 
+
 <hr>
+
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/nick-semenkovich.png" alt="Nick Semenkovich" style="width: 200px;border-radius:4px;"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Semenkovich (2019-current)</b></h4> 
+
+Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster drugs</b> effort. He did his undergrad at MIT in Computer Science & Biology, followed by his MD/PhD at Washington University in St. Louis, where he completed his PhD in genetics, studying the impact of the gut microbiota on host epigenetics. Prior to his fellowship, he completed his medicine residency at the Brigham & Women’s Hospital. Outside the hospital, Nick enjoys coffee, information security, and wrangling his two tiny humans.
+</div> </div>
+
+
+<hr>
+
 
 <div class="media"> <div class="media-left"> <a href="#">
 <!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
@@ -137,6 +151,7 @@ Jasmine is a Senior at WashU who is doing her thesis working with Ariella on our
 <!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Jacobs (2018-current)</b></h4> 
+
 
 Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who is working with us jointly with Fuhai Li at the Institute for Informatics at WashU. He is working on understanding the genic relationship between diseases and drugs. His work is part of our <b>Disruptive Innovation of Blockbuster drugs</b> effort and has relevance for drug repositioning.
 </div> </div>
@@ -157,18 +172,6 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 <hr>
 
 
-
-
-<div class="media"> <div class="media-left"> <a href="#">
-<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Semenkovich (2019-current)</b></h4> 
-
-Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster drugs</b> effort.
-</div> </div>
-
-
-<hr>
 
 
 
