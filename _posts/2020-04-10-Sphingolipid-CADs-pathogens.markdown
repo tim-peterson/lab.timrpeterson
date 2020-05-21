@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sphingolipid Biosynthesis Inhibition As A Host Strategy Against Diverse Pathogens.
+title:  Sphingolipid Biosynthesis Inhibition As A Host Strategy Against Diverse Pathogens [Biorxiv].
 date:   2020-04-10 07:30:00
 categories: manuscript
 comments: True
