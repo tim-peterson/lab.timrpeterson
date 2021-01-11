@@ -51,6 +51,12 @@ img {
 
 </style>
 
+<img src="/img/Peterson_lab_people_May2019-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
+
+<h3 style="text-align:center">Summer 2019</h3>
+
+<br>
+<br>
 
 
 <img src="/img/IMG_3381-summer2018-peterson-lab.jpeg" alt="Lab Summer 2018" style="width: 100%;border-radius:4px"/>
@@ -59,6 +65,7 @@ img {
 
 <br>
 <br>
+
 
 
 <img src="/img/IMG_7537-lab080317.JPG" alt="Lab Summer 2017" style="width: 100%;border-radius:4px"/>
@@ -93,7 +100,7 @@ My WashU page is available <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
-<img src="/img/sandeep-kumar-2.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
+<img src="/img/sandeep-kumar-3.jpg" alt="Sandeep Kumar" style="width: 200px;border-radius:4px;"/>
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Sandeep Kumar, PhD (2017-current)</b></h4> 
 Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan</b> and <b>Molecular Diagnostic for Mood</b> projects. He comes from a worm background with Kerry Kornfeld. He is doing CRISPRi screening with Jinmei. 
@@ -103,9 +110,48 @@ Sandeep is a Senior Scientist in the lab leading the <b>10X healthspan/lifespan<
 <hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/ariella-coler-reilly-crop.jpg" alt="Ariella Coler Reilly" style="width: 200px;border-radius:4px;"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ariella Coler-Reilly (2019-current)</b></h4> 
+
+Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular Cell Biology (MCB). She is interested in developing interventions targeting the aging process and is currently leading our <b>10X Lifespan project</b> effort. Ariella graduated from UC Berkeley with a B.A. in Molecular & Cell Biology and a minor in Japanese. Her previous research experiences include studying aging in neural stem cells at Weill Cornell and neural genome organizers at Lawrence Berkeley National Lab. She also worked in a translational research lab in Japan as the only English-speaker, developing her skills in science writing and translation. In her spare time, she enjoys painting and graphic design. She has an extremely cute cat.
+
+</div> </div>
+
+
+
+<hr>
+
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/nick-semenkovich.png" alt="Nick Semenkovich" style="width: 200px;border-radius:4px;"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Semenkovich (2019-current)</b></h4> 
+
+Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster drugs</b> effort. He did his undergrad at MIT in Computer Science & Biology, followed by his MD/PhD at Washington University in St. Louis, where he completed his PhD in genetics, studying the impact of the gut microbiota on host epigenetics. Prior to his fellowship, he completed his medicine residency at the Brigham & Women’s Hospital. Outside the hospital, Nick enjoys coffee, information security, and wrangling his two tiny humans.
+</div> </div>
+
+
+<hr>
+
+
+<div class="media"> <div class="media-left"> <a href="#">
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jasmine Zhang (2019-current)</b></h4> 
+
+Jasmine is a Senior at WashU who is doing her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine plans to go to medical school following graduation.
+</div> </div>
+
+
+<hr>
+
+
+
+<div class="media"> <div class="media-left"> <a href="#">
 <!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Jacobs (2018-current)</b></h4> 
+
 
 Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who is working with us jointly with Fuhai Li at the Institute for Informatics at WashU. He is working on understanding the genic relationship between diseases and drugs. His work is part of our <b>Disruptive Innovation of Blockbuster drugs</b> effort and has relevance for drug repositioning.
 </div> </div>
@@ -126,28 +172,6 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 <hr>
 
 
-<div class="media"> <div class="media-left"> <a href="#">
-<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Ariella Coler-Reilly (2019-current)</b></h4> 
-
-Ariella is a WashU MSTP (M.D./Ph.D) student who is doing her Ph.D. in Molecular & Cellular Biology (MCB). She is leading our <b>10X Lifespan project</b> effort.
-</div> </div>
-
-
-<hr>
-
-
-<div class="media"> <div class="media-left"> <a href="#">
-<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
-
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Semenkovich (2019-current)</b></h4> 
-
-Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster drugs</b> effort.
-</div> </div>
-
-
-<hr>
 
 
 
