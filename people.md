@@ -51,6 +51,14 @@ img {
 
 </style>
 
+<!--img src="/img/Peterson_lab_people_May2020-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
+
+<h3 style="text-align:center">Summer 2019</h3>
+
+<br>
+<br-->
+
+
 <img src="/img/Peterson_lab_people_May2019-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
 
 <h3 style="text-align:center">Summer 2019</h3>
@@ -137,19 +145,6 @@ Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster
 <div class="media"> <div class="media-left"> <a href="#">
 <!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Jasmine Zhang (2019-current)</b></h4> 
-
-Jasmine is a Senior at WashU who is doing her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine plans to go to medical school following graduation.
-</div> </div>
-
-
-<hr>
-
-
-
-<div class="media"> <div class="media-left"> <a href="#">
-<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
-
 </a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nick Jacobs (2018-current)</b></h4> 
 
 
@@ -180,6 +175,14 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 <br>
 
 <h3>Former lab members</h3>
+
+**Jasmine Zhang (2019-2020)** - 
+
+Jasmine graduated in 2020 from WashU. She did her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine is planning to go ti medical school.
+
+
+<hr>
+
 
 **JiWoong Park (2016-2019)** - 
 
