@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Conversation about Aging with Ira Pastor.
