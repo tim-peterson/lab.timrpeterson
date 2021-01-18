@@ -167,6 +167,15 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 <hr>
 
 
+<div class="media"> <div class="media-left"> <a href="#">
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Anastasiia Onyshchenko (2020-current)</b></h4> 
+Anastasiia is a plant and microbial biology (PMB) grad student who started in our lab in the Spring of 2020. She is working on our <b>TBONE project</b>. 
+</div> </div>
+
+
+<hr>
 
 
 
@@ -188,8 +197,6 @@ Jasmine graduated in 2020 from WashU. She did her thesis working with Ariella on
 Pra is an undergrad at WashU. He has diverse interests in human health and worked on our <b>10X Lifespan project</b>.
 
 <hr>
-
-
 
 **JiWoong Park (2016-2019)** - 
 
@@ -256,30 +263,31 @@ Melanie graduated from WashU in 2018. She worked with Harrison on the Molecular 
 
 <hr>
 
-
-**Niki Song (2016-2017)** - 
-
-Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISPRi screening. She is now in medical school at New York Medical College.
-
-<hr>
-
-**Kevin Li (2017)** - 
+**Kevin Li (2017-2018)** - 
 
 
 Kevin is a BME major, Computer Science minor at WashU (Class of 2019) who worked in the 2017 academic year on the 10X healthspan/lifespan project.
 
 <hr>
 
-**Christina Gu (2017)** - 
+**Christina Gu (2017-2018)** - 
 
 Christina graduated from WashU in 2017 with degree in Math. She worked on the 10X healthspan/lifespan project.
 
 <hr>
 
-**Jay Jiang (2017)** - 
+**Jay Jiang (2017-2018)** - 
 
 Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on MORPHEOME - Molecular ORPHan PhEnOtype MatchEr. He is now in medical school.
 
 <hr>
+
+**Niki Song (2016-2017)** - 
+
+Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISPRi screening. She is now in medical school at New York Medical College and will be graduating soon.
+
+<hr>
+
+
 
 
