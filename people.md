@@ -198,6 +198,13 @@ Pra is an undergrad at WashU. He has diverse interests in human health and worke
 
 <hr>
 
+**Kirill Myachin (2019)** –
+
+Kirill was a summer student in the BioMedRap program from Brooklyn College who majored in biochemistry. He is originally from Moldova. He worked on to characterize hits from our CRISPRi screening. He is now working at our company, BioIO, before he starts an MD/PhD program.
+
+<hr>
+
+
 **JiWoong Park (2016-2019)** - 
 
 Ji Woong ("Ji") Park defended his Ph.D. thesis in August 2019. He was a Molecular Cell Biology (DBBS) PhD graduate student in the Peterson Lab. He now works as a data scientist at Humana. Ji graduated from Washington & Jefferson College with B.A. in Chemistry with Honors and minor in Neuroscience. His previous research experiences span cardiovascular molecular biology (Cincinnati College of Medicine), biophysical instrumentation (W&J), and protein biochemistry in axon degeneration (Wash U Med). Ji led the MORPHEOME - Molecular ORPHan PhEnOtype MatchEr project and was involved in establishing computational pipeline combined with wet-lab validation to elucidate novel genes in osteoporosis and depression. He is passionate about coding and was involved with LaunchCode in STL. In his spare time, he is an avid foodie (with photos to prove) and has been to 5 ramen restaurants in STL (Robata, Nami, Midtown, Death in the Afternoon, and Vista).
