@@ -51,12 +51,12 @@ img {
 
 </style>
 
-<!--img src="/img/Peterson_lab_people_May2020-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
+<img src="/img/WUSTL-Peterson-lab2020.jpg" alt="Lab Fall 2020" style="width: 100%;border-radius:4px"/>
 
-<h3 style="text-align:center">Summer 2019</h3>
+<h3 style="text-align:center">Fall 2020</h3>
 
 <br>
-<br-->
+<br>
 
 
 <img src="/img/Peterson_lab_people_May2019-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
@@ -167,6 +167,15 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 <hr>
 
 
+<div class="media"> <div class="media-left"> <a href="#">
+<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Anastasiia Onyshchenko (2020-current)</b></h4> 
+Anastasiia is a plant and microbial biology (PMB) grad student who started in our lab in the Spring of 2020. She is working on our <b>TBONE project</b>. 
+</div> </div>
+
+
+<hr>
 
 
 
@@ -178,8 +187,20 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 
 **Jasmine Zhang (2019-2020)** - 
 
-Jasmine graduated in 2020 from WashU. She did her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine is planning to go ti medical school.
+Jasmine graduated in 2020 from WashU. She did her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine is planning to go medical school.
 
+
+<hr>
+
+**Prathamesh Chati (2019-2020)** - 
+
+Pra is an undergrad at WashU. He has diverse interests in human health and worked on our <b>10X Lifespan project</b>.
+
+<hr>
+
+**Kirill Myachin (2019)** –
+
+Kirill was a summer student in the BioMedRap program from Brooklyn College who majored in biochemistry. He is originally from Moldova. He worked on to characterize hits from our CRISPRi screening. He is now working at our company, BioIO, before he starts an MD/PhD program.
 
 <hr>
 
@@ -192,7 +213,7 @@ Ji Woong ("Ji") Park defended his Ph.D. thesis in August 2019. He was a Molecula
 
 **Damon Burrow (2016-2019)** -
 
-Damon is currently a BME Ph.D student startin in the Fall of 2019. Damon graduated from William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project. He focused on the TBONE project.
+Damon is currently a BME Ph.D student at Duke University starting in the Fall of 2019. Damon graduated from William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project. He focused on the TBONE project.
 
 <hr>
 
@@ -249,30 +270,31 @@ Melanie graduated from WashU in 2018. She worked with Harrison on the Molecular 
 
 <hr>
 
-
-**Niki Song (2016-2017)** - 
-
-Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISPRi screening. She is now in medical school at New York Medical College.
-
-<hr>
-
-**Kevin Li (2017)** - 
+**Kevin Li (2017-2018)** - 
 
 
 Kevin is a BME major, Computer Science minor at WashU (Class of 2019) who worked in the 2017 academic year on the 10X healthspan/lifespan project.
 
 <hr>
 
-**Christina Gu (2017)** - 
+**Christina Gu (2017-2018)** - 
 
 Christina graduated from WashU in 2017 with degree in Math. She worked on the 10X healthspan/lifespan project.
 
 <hr>
 
-**Jay Jiang (2017)** - 
+**Jay Jiang (2017-2018)** - 
 
 Jay graduated from WashU in 2017 with a degree in Biochemistry. He worked on MORPHEOME - Molecular ORPHan PhEnOtype MatchEr. He is now in medical school.
 
 <hr>
+
+**Niki Song (2016-2017)** - 
+
+Niki graduated from WashU in 2016 with degree in Pyschology. She worked on CRISPRi screening. She is now in medical school at New York Medical College and will be graduating soon.
+
+<hr>
+
+
 
 
