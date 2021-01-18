@@ -178,10 +178,17 @@ Nick is leading our animals studies and in particular is working on our <b>TBONE
 
 **Jasmine Zhang (2019-2020)** - 
 
-Jasmine graduated in 2020 from WashU. She did her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine is planning to go ti medical school.
+Jasmine graduated in 2020 from WashU. She did her thesis working with Ariella on our <b>10X Lifespan project</b>. Jasmine is planning to go medical school.
 
 
 <hr>
+
+**Prathamesh Chati (2019-2020)** - 
+
+Pra is an undergrad at WashU. He has diverse interests in human health and worked on our <b>10X Lifespan project</b>.
+
+<hr>
+
 
 
 **JiWoong Park (2016-2019)** - 
@@ -192,7 +199,7 @@ Ji Woong ("Ji") Park defended his Ph.D. thesis in August 2019. He was a Molecula
 
 **Damon Burrow (2016-2019)** -
 
-Damon is currently a BME Ph.D student startin in the Fall of 2019. Damon graduated from William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project. He focused on the TBONE project.
+Damon is currently a BME Ph.D student at Duke University starting in the Fall of 2019. Damon graduated from William Woods University where he majored in Biology with minors in Physics and Chemistry. His previous work includes research in clinical imaging to improve malignant tumor treatment in adaptive radiotherapy. His work specifically allows radiotherapy to be administered more accurately leading to decreased adverse effects and cancer recurrence and improved outcomes and improved quality of life for cancer patients. Damon plans to attend medical school and pursue a career in a surgical specialty and research such as orthopedic or neurosurgery. Damon works on the animal studies for the <b>Disruptive Innovation of Blockbuster drugs</b> project. He focused on the TBONE project.
 
 <hr>
 
