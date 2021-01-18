@@ -267,7 +267,7 @@ India worked in the Peterson lab the 2017 summer as an Amgen Scholar before her 
 
 **Melanie Lopez (2017-2018)** - 
 
-Melanie graduated from WashU in 2018. She worked with Harrison on the Molecular Diagnostic for Mood project</b>.
+Melanie graduated from WashU in 2018. She worked with Harrison on the Molecular Diagnostic for Mood project. She is currently a med student at UT Southwestern.
 
 <hr>
 
