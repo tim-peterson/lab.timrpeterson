@@ -51,12 +51,12 @@ img {
 
 </style>
 
-<!--img src="/img/Peterson_lab_people_May2020-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
+<img src="/img/WUSTL-Peterson-lab2020.jpg" alt="Lab Fall 2020" style="width: 100%;border-radius:4px"/>
 
-<h3 style="text-align:center">Summer 2019</h3>
+<h3 style="text-align:center">Fall 2020</h3>
 
 <br>
-<br-->
+<br>
 
 
 <img src="/img/Peterson_lab_people_May2019-crop.jpg" alt="Lab Summer 2019" style="width: 100%;border-radius:4px"/>
