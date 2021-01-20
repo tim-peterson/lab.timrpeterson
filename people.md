@@ -141,6 +141,15 @@ Nick is a PSTP fellow who working on our <b>Disruptive Innovation of Blockbuster
 
 <hr>
 
+<div class="media"> <div class="media-left"> <a href="#">
+<img src="/img/nick-bean.jpg" alt="Nick Bean" style="width: 200px;border-radius:4px;"/>
+
+</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nicholas Bean (2019-current)</b></h4> 
+Nick is leading our animals studies and in particular is working on our <b>TBONE project</b>. He is a recent graduate of the University of Missouri. 
+</div> </div>
+
+
+<hr>
 
 <div class="media"> <div class="media-left"> <a href="#">
 <!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
@@ -156,15 +165,7 @@ Nick is a 4th-year WashU Computational & Systems Biology (CSB) Ph.D. student who
 
 
 
-<div class="media"> <div class="media-left"> <a href="#">
-<!--img src="/img/cheng-lyu.jpeg" alt="Cheng Lyu" style="width: 200px;border-radius:4px;"/-->
 
-</a> </div> <div class="media-body"> <h4 class="media-heading"><b>Nicholas Bean (2019-current)</b></h4> 
-Nick is leading our animals studies and in particular is working on our <b>TBONE project</b>. He is a recent graduate of the University of Missouri. 
-</div> </div>
-
-
-<hr>
 
 
 <div class="media"> <div class="media-left"> <a href="#">
@@ -266,7 +267,7 @@ India worked in the Peterson lab the 2017 summer as an Amgen Scholar before her 
 
 **Melanie Lopez (2017-2018)** - 
 
-Melanie graduated from WashU in 2018. She worked with Harrison on the Molecular Diagnostic for Mood project</b>.
+Melanie graduated from WashU in 2018. She worked with Harrison on the Molecular Diagnostic for Mood project. She is currently a med student at UT Southwestern.
 
 <hr>
 
