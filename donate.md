@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Donate to the Peterson lab
+title: Donate to the Peterson lab.
 permalink: /donate/
 ---
 
 
-## We receive our funding mainly from National Institutes of Health. 
-
-## We would be grateful for your contributions to further fund our work on aging. 
+<p> We receive our funding mainly from National Institutes of Health. We would be grateful for your contributions to further fund our work on aging. Click button to copy the cryptocurrency address.</p> 
 
 
 <!--ETH
@@ -25,26 +23,26 @@ DAK6vkgRBLGKh8CxsDtcyk7huayn1wLSXN
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js"></script>
 
 <ul style="list-style:none;">
-<li>BTC 
+<li style="margin: 10px">BTC 
 	<button class="btn btn-lg m-2" data-clipboard-target="#btc-target">
 		<span id="btc-target">bc1q7v2enqsjm0hzskatpkc8z200pt6eh9pm4uke75
 </span>
 	</button>
 </li>
 
-<li>ETH 
+<li style="margin: 10px">ETH 
 	<button class="btn btn-lg m-2" data-clipboard-target="#eth-target">
 		<span id="eth-target">0x00a33C8379B03085Ad0c0B4F6FB38C63dEBa8475</span>
 	</button>
 </li>
 
-<li>LTC 
+<li style="margin: 10px">LTC 
 	<button class="btn btn-lg m-2" data-clipboard-target="#ltc-target">
 		<span id="ltc-target">ltc1ql9mq8ccg3syqge3lv00n85q862zeujy2gg7sw7</span>
 	</button>
 </li>
 
-<li>DOGE 
+<li style="margin: 10px">DOGE 
 	<button class="btn btn-lg m-2" data-clipboard-target="#doge-target">
 		<span id="doge-target">DAK6vkgRBLGKh8CxsDtcyk7huayn1wLSXN</span>
 	</button>
