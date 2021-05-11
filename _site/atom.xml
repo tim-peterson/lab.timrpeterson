@@ -4,7 +4,7 @@
  <title>Tim R Peterson Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-01-10T10:53:31-06:00</updated>
+ <updated>2021-05-11T11:47:07-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,17 +13,97 @@
 
  
  <entry>
-   <title>Moonshots for aging [Biorxiv].</title>
-   <link href="http://localhost:4000/manuscript/2019/01/08/Moonshots-for-aging.html"/>
-   <updated>2019-01-08T01:30:00-06:00</updated>
-   <id>http://localhost:4000/manuscript/2019/01/08/Moonshots-for-aging</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.biorxiv.org/content/early/2019/01/10/514489&quot;&gt;https://www.biorxiv.org/content/early/2019/01/10/514489&lt;/a&gt;&lt;/p&gt;
+   <title>Conversation about Aging with Ira Pastor.</title>
+   <link href="http://localhost:4000/podcast/2021/01/11/Aging-Ira-Pastor.html"/>
+   <updated>2021-01-11T03:00:00-06:00</updated>
+   <id>http://localhost:4000/podcast/2021/01/11/Aging-Ira-Pastor</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x6HPXI_K2OQ&quot;&gt;https://www.youtube.com/watch?v=x6HPXI_K2OQ&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Sandeep Kumar, Tim Peterson&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x6HPXI_K2OQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;bioRxiv 514489; doi: &lt;a href=&quot;https://doi.org/10.1101/514489&quot;&gt;https://doi.org/10.1101/514489&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A conversation with Ira Pastor on his Progress, Potential, and Possibilities (PPP) Youtube program. We discussed our recent manuscript “Moonshots for Aging” that we recently published as well as other topics of the pharmaceutical industry.&lt;/p&gt;
 
-&lt;p&gt;As the global population ages, there is increased interest in living longer and improving one’s quality of life in later years. However, studying aging is expensive and time-consuming. And despite successes in extending lifespan in model organisms, there still aren’t really any feasible solutions for delaying aging in humans. With space travel, scientists couldn’t know what it would take to get to the moon. They had to extrapolate from theory and shorter-range tests. Perhaps with aging, we need a similar moonshot philosophy. And though “shot” might imply medicine, perhaps we need to think beyond biological interventions. Like the moon, we seem a long way away from provable anti-aging therapies in humans. This review therefore focuses on radical proposals that we hope might stimulate discussion on what we might consider doing differently to increase healthy human lifespan.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moonshots for aging.</title>
+   <link href="http://localhost:4000/manuscript/2020/11/03/Moonshots-For-Aging.html"/>
+   <updated>2020-11-03T03:00:00-06:00</updated>
+   <id>http://localhost:4000/manuscript/2020/11/03/Moonshots-For-Aging</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7740370/pdf/nha-5-nha190064.pdf&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7740370/pdf/nha-5-nha190064.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kumar S, Peterson TR. Moonshots for aging. Nutr Healthy Aging. 2020 Nov 3;5(4):239-246. doi: 10.3233/NHA-190064. PMID: 33344796; PMCID: PMC7740370.&lt;/p&gt;
+
+&lt;p&gt;Abstract. As the global population ages, there is increased interest in living longer and improving one’s quality of life in
+later years. However, studying aging – the decline in body function – is expensive and time-consuming. And despite research
+success to make model organisms live longer, there still aren’t really any feasible solutions for delaying aging in humans.
+With space travel, scientists and engineers couldn’t know what it would take to get to the moon. They had to extrapolate
+from theory and shorter-range tests. Perhaps with aging, we need a similar moonshot philosophy. And though “shot” might
+imply medicine, perhaps we need to think beyond medical interventions. Like the moon once was, we seem a long way away
+from provable therapies to increase human healthspan (the healthy period of one’s life) or lifespan (how long one lives).
+This review therefore focuses on radical proposals. We hope it might stimulate discussion on what we might consider doing
+significantly differently than ongoing aging research.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ATRAID regulates the action of nitrogen-containing bisphosphonates on bone [Science Translational Medicine].</title>
+   <link href="http://localhost:4000/publication/2020/05/20/ATRAID.html"/>
+   <updated>2020-05-20T09:30:00-05:00</updated>
+   <id>http://localhost:4000/publication/2020/05/20/ATRAID</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://stm.sciencemag.org/content/12/544/eaav9166&quot;&gt;https://stm.sciencemag.org/content/12/544/eaav9166&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Links to access the article for free on Science Translational Medicine website:
+&lt;a href=&quot;http://stm.sciencemag.org/cgi/content/abstract/12/544/eaav9166?ijkey=47pOgz4Wzinzo&amp;amp;keytype=ref&amp;amp;siteid=scitransmed&quot;&gt;Abstract&lt;/a&gt; | &lt;a href=&quot;http://stm.sciencemag.org/cgi/rapidpdf/12/544/eaav9166?ijkey=47pOgz4Wzinzo&amp;amp;keytype=ref&amp;amp;siteid=scitransmed&quot;&gt;Reprint&lt;/a&gt; | &lt;a href=&quot;http://stm.sciencemag.org/cgi/content/full/12/544/eaav9166?ijkey=47pOgz4Wzinzo&amp;amp;keytype=ref&amp;amp;siteid=scitransmed&quot;&gt;Full text&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lauren E. Surface, Damon T. Burrow, Jinmei Li, Jiwoong Park, Sandeep Kumar, Cheng Lyu, Niki Song, Zhou Yu, Abbhirami Rajagopal, Yangjin Bae, Brendan H. Lee, Steven Mumm, Charles C. Gu, Jonathan C. Baker, Mahshid Mohseni, Melissa Sum, Margaret Huskey, Shenghui Duan, Vinieth N. Bijanki, Roberto Civitelli, Michael J. Gardner, Chris M. McAndrew, William M. Ricci, Christina A. Gurnett, Kathryn Diemer, Fei Wan, Christina L. Costantino, Kristen M. Shannon, Noopur Raje, Thomas B. Dodson, Daniel A. Haber, Jan E. Carette, Malini Varadarajan, Thijn R. Brummelkamp, Kivanc Birsoy, David M. Sabatini, Gabe Haller and Timothy R. Peterson&lt;/p&gt;
+
+&lt;p&gt;Science Translational Medicine  20 May 2020:
+Vol. 12, Issue 544, eaav9166
+DOI: 10.1126/scitranslmed.aav9166; doi: &lt;a href=&quot;https://doi.org/10.1126/scitranslmed.aav9166&quot;&gt;10.1126/scitranslmed.aav9166&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nitrogen-containing bisphosphonates (N-BPs), such as alendronate, are the most widely prescribed medications for diseases involving bone, with nearly 200 million prescriptions written annually. Recently, widespread use of N-BPs has been challenged due to the risk of rare but traumatic side effects such as atypical femoral fracture (AFF) and osteonecrosis of the jaw (ONJ). N-BPs bind to and inhibit farnesyl diphosphate synthase, resulting in defects in protein prenylation. Yet, it remains poorly understood what other cellular factors might allow N-BPs to exert their pharmacological effects. Here, we performed genome-wide studies in cells and patients to identify the poorly characterized gene, ATRAID. Loss of ATRAID function results in selective resistance to N-BP–mediated loss of cell viability and the prevention of alendronate-mediated inhibition of prenylation. ATRAID is required for alendronate inhibition of osteoclast function, and ATRAID-deficient mice have impaired therapeutic responses to alendronate in both postmenopausal and senile (old age) osteoporosis models. Last, we performed exome sequencing on patients taking N-BPs that suffered ONJ or an AFF. ATRAID is one of three genes that contain rare nonsynonymous coding variants in patients with ONJ or an AFF that is also differentially expressed in poor outcome groups of patients treated with N-BPs. We functionally validated this patient variation in ATRAID as conferring cellular hypersensitivity to N-BPs. Our work adds key insight into the mechanistic action of N-BPs and the processes that might underlie differential responsiveness to N-BPs in people.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Drug target identification using CRISPRi/a screening.</title>
+   <link href="http://localhost:4000/funding/2020/04/22/CRISPRia-drug-target-ID.html"/>
+   <updated>2020-04-22T02:30:00-05:00</updated>
+   <id>http://localhost:4000/funding/2020/04/22/CRISPRia-drug-target-ID</id>
+   <content type="html">&lt;p&gt;Co-PIs: Tim Peterson, &lt;a href=&quot;https://gilbertlab.ucsf.edu/people/luke-gilbert-phd&quot;&gt;Luke Gilbert&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our company, &lt;a href=&quot;http://bioio.tech&quot;&gt;Bio-I/O&lt;/a&gt;, was recently awarded a &lt;a href=&quot;https://sbir.nih.gov/funding&quot;&gt;phase I STTR grant&lt;/a&gt; from the NIGMS to use CRISPRi/a screening to identify drug targets for disease ranging from Alzheimer’s to Type II diabetes.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sphingolipid Biosynthesis Inhibition As A Host Strategy Against Diverse Pathogens [Biorxiv].</title>
+   <link href="http://localhost:4000/manuscript/2020/04/10/Sphingolipid-CADs-pathogens.html"/>
+   <updated>2020-04-10T02:30:00-05:00</updated>
+   <id>http://localhost:4000/manuscript/2020/04/10/Sphingolipid-CADs-pathogens</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2020.04.10.035683v1&quot;&gt;https://www.biorxiv.org/content/10.1101/2020.04.10.035683v1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sandeep Kumar, Jinmei Li, Jiwoong Park, Sydney K. Hart, Niki J. Song, Damon T. Burrow, Nicholas L. Bean, Nicholas C. Jacobs, Ariella Coler-Reilly, Anastasiia Onyshchenko Pendergrass, Tanya H. Pierre, India C. Bradley, Jan E. Carette, Malini Varadarajan, Thijn R. Brummelkamp, Roland Dolle, Tim R. Peterson&lt;/p&gt;
+
+&lt;p&gt;bioRxiv 035683; doi: &lt;a href=&quot;https://doi.org/10.1101/2020.04.10.035683&quot;&gt;https://doi.org/10.1101/2020.04.10.035683&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chloroquine is an anti-malarial and immunosuppressant drug that has cationic amphipathic chemical properties. We performed genome-wide screens in human cells with chloroquine and several other widely used cationic amphipathic drugs (CADs) including the anti-depressants, sertraline (Zoloft) and fluoxetine (Prozac), the analgesic nortriptyline (Pamelor), the anti-arrhythmic amiodarone (Cordarone), and the anti-hypertensive verapamil (Calan) to characterize their molecular similarities and differences. Despite CADs having different disease indications but consistent with them sharing key chemical properties, we found CADs to have remarkably similar phenotypic profiles compared with non-CADs we and others have previously screened. The most significant genetic interaction for all CADs was the initiating step in sphingolipid biosynthesis catalyzed by serine palmitoyltransferase (SPT). A comparison of genome-wide screens performed with diverse pathogens from viruses, bacteria, plants, and parasites including Ebola, adeno-associated virus AAV2, HIV, Rotavirus, Influenza A, Zika virus, Picornavirus, Exotoxin A, Cholera toxin, Type III secretion system and Shiga toxin, Ricin toxin, and Toxoplasma gondii showed SPT as a top common host factor and 80% overlap overall in top hits specifically with CADs. Potential sphingolipid-mediated mechanisms for the host response- and virulence-modulating effects of CADs involve autophagy and SERPINE1/PAI-1 (plasminogen activator inhibitor-1). Chloroquine has recently shown potential as an anti-viral agent for the novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease (19, 20). Our study demonstrates that numerous readily available drugs molecularly function highly similar to chloroquine, which suggests they might be considered for further pre-clinical investigation in the context of SARS-CoV-2. More generally, our work suggests the diverse pathogen mitigating potential of drugs that inhibit host sphingolipid biosynthesis such as CADs.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novel type II diabetes and NASH drugs.</title>
+   <link href="http://localhost:4000/funding/2019/09/05/TypeII-diabetes-NASH-STTR-grant.html"/>
+   <updated>2019-09-05T02:30:00-05:00</updated>
+   <id>http://localhost:4000/funding/2019/09/05/TypeII-diabetes-NASH-STTR-grant</id>
+   <content type="html">&lt;p&gt;Co-PIs: Tim Peterson, &lt;a href=&quot;https://diabetesresearchcenter.dom.wustl.edu/brian-n-finck-ph-d/&quot;&gt;Brian Finck&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our company, &lt;a href=&quot;http://bioio.tech&quot;&gt;Bio-I/O&lt;/a&gt;, was recently awarded a &lt;a href=&quot;https://sbir.nih.gov/funding&quot;&gt;fast-track STTR grant&lt;/a&gt; from the NIDDK for Novel type II diabetes and non-alcohlic steatohepatitis (NASH) drugs we are developing.&lt;/p&gt;
 
 </content>
  </entry>
