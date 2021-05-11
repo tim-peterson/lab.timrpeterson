@@ -6,13 +6,15 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 May 2021 10:51:55 -0500</pubDate>
-    <lastBuildDate>Tue, 11 May 2021 10:51:55 -0500</lastBuildDate>
+    <pubDate>Tue, 11 May 2021 10:57:07 -0500</pubDate>
+    <lastBuildDate>Tue, 11 May 2021 10:57:07 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Conversation about Aging with Ira Pastor.</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x6HPXI_K2OQ&quot;&gt;https://www.youtube.com/watch?v=x6HPXI_K2OQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x6HPXI_K2OQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;A conversation with Ira Pastor on his Progress, Potential, and Possibilities (PPP) Youtube program. We discussed our recent manuscript “Moonshots for Aging” that we recently published as well as other topics of the pharmaceutical industry.&lt;/p&gt;
 
