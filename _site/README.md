@@ -1,7 +1,5 @@
-# lab.timrpeterson
+# [petersonlab.wustl.edu](https://petersonlab.wustl.edu)
 
-
-[http://blog.timrpeterson.com](http://blog.timrpeterson.com)
 
 `$ bundle exec jekyll serve`
 
