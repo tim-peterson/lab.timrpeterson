@@ -5,7 +5,7 @@ permalink: /donate/
 ---
 
 
-<p> We receive our funding mainly from National Institutes of Health. We would be grateful for your contributions to further fund our work on aging. Click button to copy the cryptocurrency address.</p> 
+<p> We receive our funding mainly from the National Institutes of Health. We would be grateful for your contributions to further fund our work on aging. Click a button to copy the cryptocurrency address.</p> 
 
 
 <!--ETH
@@ -17,6 +17,8 @@ ltc1ql9mq8ccg3syqge3lv00n85q862zeujy2gg7sw7
 DOGE
 DAK6vkgRBLGKh8CxsDtcyk7huayn1wLSXN
 -->
+
+
 
 
 
