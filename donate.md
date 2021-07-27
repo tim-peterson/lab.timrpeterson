@@ -4,8 +4,16 @@ title: Donate to the Peterson lab.
 permalink: /donate/
 ---
 
+<div class="container-fluid">
+<div class="row">
+<div class="home col-md-12">
 
-<p> We receive our funding mainly from the National Institutes of Health. We would be grateful for your contributions to further fund our work on aging. Click a button to copy the cryptocurrency address.</p> 
+<h3> We receive our funding mainly from the National Institutes of Health. We would be grateful for your contributions to further fund our work on aging. </h3>
+<ul>
+	<li>WashU's <a href="https://research.wustl.edu/offices/research-development/">development office</a> coordinates all funding for the university. Please reach out to them. </li>
+	<li>If you wish to give directly to our Division, please see <a href="https://bonehealth.wustl.edu/giving/">this link</a>.</li> 
+	<li>Alternatively, click a button to copy our cryptocurrency address.</li>
+</ul> 
 
 
 <!--ETH
@@ -52,7 +60,9 @@ DAK6vkgRBLGKh8CxsDtcyk7huayn1wLSXN
 
 </ul>
 
-
+</div>
+</div>
+</div>
 
 <script>
 	var clipboard = new ClipboardJS('.btn');
