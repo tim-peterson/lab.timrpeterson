@@ -6,9 +6,209 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Aug 2021 14:04:53 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Aug 2021 14:04:53 -0500</lastBuildDate>
+    <pubDate>Thu, 09 Dec 2021 17:37:51 -0600</pubDate>
+    <lastBuildDate>Thu, 09 Dec 2021 17:37:51 -0600</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Open Senolytics</title>
+        <description>&lt;h2 id=&quot;gitcoin-gr12-0xda63d3b90480d8346bd85b6246222eff802d688a&quot;&gt;&lt;a href=&quot;https://gitcoin.co/grants/3930/open-senolytics&quot;&gt;Gitcoin GR12: 0xDa63d3b90480D8346bd85B6246222EfF802D688A&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/gitcoin/OpenSenolytics-logo.jpg&quot; alt=&quot;OpenSenolytics-logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Senolytics are a powerful new class of longevity therapeutic. They selectively kill disease-causing senescent cells that accumulate in our bodies as we age. In this project we will test a class of drugs we identified called cationic amphipathic drugs (CADs) that we’ve shown in preliminary studies to have powerful senolytic activity. Based on the drugs’ chemistry we propose this class acts like an intracellular soap to ‘clean out’ these ‘old’ senescent cells from the body. Because many of the drugs we’re testing are already in use in humans and are inexpensive, and we will make our results publicly available, our goal is to accelerate the longevity field by providing immediately useful therapies.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-senolytics-and-how-do-they-relate-to-longevity&quot;&gt;What are Senolytics? And how do they relate to longevity?&lt;/h3&gt;
+
+&lt;p&gt;Aging is the #1 risk factor for many common diseases, such as cardiovascular disease, cancer, Alzheimer’s, etc. Meaning, the older one is the more likely one is to have one of these conditions. There are several molecular explanations for this increased risk, but senescent cells that accumulate as we age are emerging as a key contributor.&lt;/p&gt;
+
+&lt;p&gt;Senescence refers to cells that are no longer dividing. Senescent cells are particularly important in the context of stem cells. Over our lifespans our stem cells throughout our body need to continually proliferate in order to replace damaged cells to replenish our tissues. As we age, damaged cells outpace healthy cells and the resulting increase in senescent cells results in decreased function. Moreover, senescent cells secrete pro-inflammatory and other destructive signals that can add insult to injury.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/gitcoin/senescent-cells-explanation-figure.jpg&quot; alt=&quot;senescent-cells-explanation-figure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eliminating senescent cells – akin to taking out our body’s trash – is now well-established as effective in a variety of aging-related disease models. A first therapeutically tractable approach to eliminate senescent cells was discovered by James Kirkland and colleagues at the Mayo Clinic in 2015. The term ‘senolytics’ was coined to describe the drugs they identified that ‘lysed’ or killed senescent cells. They prototype senolytic they discovered, dasatinib, was interesting because it had previously been used as a cancer therapeutic. Since then, researchers have identified others including navitoclax.&lt;/p&gt;
+
+&lt;p&gt;Despite this progress, the field has been limited in its search for senolytics because they don’t fit in the predominant paradigm of drug development. In drug development one typically needs a protein to target a drug against. In this paradigm researchers design a drug to fit in a molecular ‘pocket’ in a protein in a lock-and-key-like mechanism where the drug binding to the pocket either inhibits or activates the protein. With senolytics, however, the drug target is a cell and not a protein. The field therefore has been bottlenecked by not knowing what an effective senolytic should ‘look’ like. Senolytic identifying assays still involve the time and labor-intensive screening experiments Kirkland et al first developed. To date, only a few reproducibly effective senolytics have been developed.&lt;/p&gt;
+
+&lt;p&gt;More importantly, fewer yet are in the hands of researchers around the world. Because of the exploding interest in senolytics numerous companies rushed to the space. Perhaps most well know is the Jeff Bezos-backed Unity Biotechnology. Unfortunately, initial senolytic clinical trials haven’t been successful. This is a problem for the field because with companies one can’t know what drugs are being developed so the field doesn’t benefit from their insights and failures. This slows progress.&lt;/p&gt;
+
+&lt;p&gt;The field is need of concerted public efforts for identifying senolytics. This is why we started Open Senolytics.&lt;/p&gt;
+
+&lt;h3 id=&quot;backstory-on-open-senolytics&quot;&gt;Backstory on Open Senolytics&lt;/h3&gt;
+
+&lt;p&gt;The work that led to our approach of identifying was a classic example of following the science. During the COVID pandemic we set out to understand what human genes might be commonly implicated in host responses across pathogens. Such a gene set could be a starting point as a target for a broad-spectrum prophylactic as well as be informative in the event of future pandemics. We performed meta-analyses of 15 genome-wide screens and 31 transcriptomic profiles involving diverse pathogens including viruses (e.g., SARS-CoV-2), bacteria, fungi, and parasites. Interestingly, the clear unifying signature from this analysis were factors related to sphingolipids and senescence.&lt;/p&gt;
+
+&lt;p&gt;We next sought to identify drugs that might target similar gene sets to those we identified with pathogens. Such drugs might represent a therapeutic for multiple pathogens. We performed analogous unbiased experiments and discovered drugs with cationic amphiphilic chemical properties (CADs) had a striking gene overlap (75%) to those we found for pathogens in also centering on sphingolipids and senescence. One notable example CAD we found is fluvoxamine, which is showing promise in multiple COVID-19 trials.&lt;/p&gt;
+
+&lt;p&gt;That we found CADs to specifically relate to both pathogens and senescence was interesting in light of senolytics. Senolytics selectively kill pathogenic senescent cells compared with healthy proliferating cells, but it is unclear what their molecular target is that provides this selectivity. Without this rationale, it has been hard to make progress in identifying new senolytics. In this proposal, we hypothesize drugs that possess cationic amphiphilic properties chemically resemble sphingolipids and are a defining class of senolytics. We will test this hypothesis in the following specific aim:&lt;/p&gt;
+
+&lt;h4 id=&quot;specific-aim-1-establish-cads-senolytic-capabilities-across-senescence-inducing-insults-and-cell-types&quot;&gt;Specific Aim 1: Establish CADs senolytic capabilities across senescence-inducing insults and cell types&lt;/h4&gt;
+
+&lt;p&gt;Many insults can induce cell senescence, yet their effects can vary by cell type. The same is true for senolytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objective 1:&lt;/strong&gt; Determine the efficacy of CADs as senolytics in the context of various senescence-inducing insults. In addition to pathogens, we will use commonly used senescence-inducers such as irradiation to determine to what extent each CAD’s senolytic activity is agnostic to the source of the induction or whether different CADs have different inducer specificities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objective 2:&lt;/strong&gt; Determine the efficacy of CADs as senolytics in various cell types. To maintain feasibility in this objective, we will focus on pathogens as our senescence-inducing insults.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/gitcoin/senolytics-data.jpg&quot; alt=&quot;senolytics-data&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have preliminary evidence this aim should succeed as expected. We identified several CADs performing as strongly as dasatinib, which notably is also a CAD (Figure 1). Interestingly, many of the CADs we identified are psychiatric medications. This aim is an in vitro aim. Depending on the resources available we would be interested in testing our results in vivo.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-is-the-team-behind-open-senolytics&quot;&gt;Who is the team behind Open Senolytics?&lt;/h3&gt;
+
+&lt;p&gt;Our team is led by Tim Peterson, Ph.D. and Sandeep Kumar, Ph.D. Dr. Peterson is an Assistant Professor at Washington University School of Medicine in St. Louis in the Departments of Medicine and Genetics. “WashU” is a perennially top five medical school in the U.S. in terms of publishing and funding. Dr. Peterson did his Ph.D. at MIT where he published multiple papers in Nature, Science, and Cell journal on one of the major aging pathways, mTOR, and the drug, rapamycin, that targets it. Dr. Peterson did his postdoctoral fellowship at Harvard University where he continued his work on longevity drug mechanisms focusing on the most commonly used drugs for osteoporosis, bisphosphonates and diabetes,  metformin. Dr. Kumar similarly has a deep background in aging research most notably performing several seminal lifespan studies in worms.&lt;/p&gt;
+
+&lt;p&gt;Dr. Morten Scheibye-Knudsen at the University of Copenhagen will be assisting us with his AI-driven senescent cell detection algorithms (see below). These algorithms are helpful because they allow us much greater throughput in our experiments. Thus, we can test many more CADs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/gitcoin/ML-senescent-cells-MSK.jpg&quot; alt=&quot;ML-senescent-cells-MSK&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;thank-you-for-your-support&quot;&gt;Thank you for your support!&lt;/h3&gt;
+
+</description>
+        <pubDate>Wed, 17 Nov 2021 03:00:00 -0600</pubDate>
+        <link>http://localhost:4000/aging/2021/11/17/Open-Senolytics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/aging/2021/11/17/Open-Senolytics.html</guid>
+        
+        
+        <category>aging</category>
+        
+      </item>
+    
+      <item>
+        <title>Supplements Death Match</title>
+        <description>&lt;h2 id=&quot;gitcoin-gr12-0x00a33c8379b03085ad0c0b4f6fb38c63deba8475&quot;&gt;&lt;a href=&quot;https://gitcoin.co/grants/4103/supplements-death-match&quot;&gt;Gitcoin GR12: 0x00a33C8379B03085Ad0c0B4F6FB38C63dEBa8475&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/gitcoin/Supplements Death Match-logo.jpg&quot; alt=&quot;Suppplement Death Match logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We will test popular longevity supplements in head-to-head experiments to determine which ones have the best longevity effects. We will compare over the counter (OTC) supplements that cover all the major areas of longevity metabolism: e.g., Elysium’s Basis and ChromaDex’s TruNiagen (NAD+ metabolism), Rujevant’s LifeTabs (Alpha-Ketoglutarate), Tom Brady’s TB12 Perform supplement (a variety of natural products including Ashwagandha), Vitamin C, D, Omega-3 Fatty Acids, Ketone Bodies, and Spermidine. We are open to test other supplements, so please feel free to suggest them in the comments. We will also compare these OTC supplements to the gold standard prescription longevity drugs, rapamycin and metformin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: Few rigorous studies exist on the longevity supplements people take. The companies who make these supplements might have done their own studies, but because the data is private we can’t know how well they worked or how safe they are. Also, they likely only tested their own products and didn’t compare them vs. their competitors’ products. Thus, many people take supplements that may not work. This wastes time and money and potentially even harms people’s health.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/gitcoin/lifespan-healthspan.jpg&quot; alt=&quot;healthspan vs. lifespan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: We will perform a full panel of healthspan and lifespan measurements in mice on many of the most popular health-promoting supplements. Animals are valuable for longevity research because they are bred to be genetically highly similar to each other especially in comparison to humans. This genetic similarity is important because it makes the results more consistent, such that reliable conclusions are more likely to be drawn from them. Thus, we are addressing the problem of the lack of rigorous studies in humans by using a more controlled experimental model system. The mouse healthspan toolbox we’ll use was assembled by leading longevity scientists including Dudley Lamming and colleagues at the University of Wisconsin. We will also measure the effects of the supplements on the well-validated epigenetic clock in human cells.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-is-the-team-behind-supplements-death-match&quot;&gt;Who is the team behind Supplements Death Match?&lt;/h3&gt;
+
+&lt;p&gt;Our team is led by Tim Peterson, Ph.D. and Sandeep Kumar, Ph.D. Dr. Peterson is an Assistant Professor at Washington University School of Medicine in St. Louis in the Departments of Medicine and Genetics. “WashU” is a perennially top five medical school in the U.S. in terms of publishing and funding. Dr. Peterson did his Ph.D. at MIT where he published multiple papers in Nature, Science, and Cell journal on one of the major aging pathways, mTOR, and the drug, rapamycin, that targets it. Dr. Peterson did his postdoctoral fellowship at Harvard University where he continued his work on longevity drug mechanisms focusing on the most commonly used drugs for osteoporosis, bisphosphonates and diabetes,  metformin. Dr. Kumar similarly has a deep background in aging research most notably performing several seminal lifespan studies in worms.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conflict of Interest statement&lt;/em&gt;. Basis is owned by Elysium and TruNiagen is owned by ChromaDex. We have no affiliation with these or other products we’re testing.&lt;/p&gt;
+
+&lt;h3 id=&quot;thank-you-for-your-support&quot;&gt;Thank you for your support!&lt;/h3&gt;
+
+</description>
+        <pubDate>Wed, 17 Nov 2021 03:00:00 -0600</pubDate>
+        <link>http://localhost:4000/aging/2021/11/17/Supplements-Death-Match.html</link>
+        <guid isPermaLink="true">http://localhost:4000/aging/2021/11/17/Supplements-Death-Match.html</guid>
+        
+        
+        <category>aging</category>
+        
+      </item>
+    
+      <item>
+        <title>Conversation with Nir Barzilai on Metformin</title>
+        <description>&lt;h4&gt; Conversation with Nir Barzilai on Metformin – October 28, 2021 &lt;/h4&gt;
+
+&lt;iframe width=&quot;960&quot; height=&quot;569&quot; src=&quot;https://www.youtube.com/embed/3WHk1q_n3Oc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Oct 2021 04:00:00 -0500</pubDate>
+        <link>http://localhost:4000/youtube/2021/10/28/nir-barzalai.html</link>
+        <guid isPermaLink="true">http://localhost:4000/youtube/2021/10/28/nir-barzalai.html</guid>
+        
+        
+        <category>youtube</category>
+        
+      </item>
+    
+      <item>
+        <title>Funding Aging Research with Dr. Luigi Ferrucci NIH-NIA Director</title>
+        <description>&lt;h4&gt; Funding Aging Research with Dr. Luigi Ferrucci NIH-NIA Director – October 26, 2021 &lt;/h4&gt;
+
+&lt;iframe width=&quot;960&quot; height=&quot;569&quot; src=&quot;https://www.youtube.com/embed/3FmV5Azub_s&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 26 Oct 2021 04:00:00 -0500</pubDate>
+        <link>http://localhost:4000/youtube/2021/10/26/NIA-director-luigi-ferrucci.html</link>
+        <guid isPermaLink="true">http://localhost:4000/youtube/2021/10/26/NIA-director-luigi-ferrucci.html</guid>
+        
+        
+        <category>youtube</category>
+        
+      </item>
+    
+      <item>
+        <title>VitaDAO Discussion Panel - Rapamycin &amp; Longevity</title>
+        <description>&lt;h4&gt; VitaDAO Discussion Panel - Rapamycin &amp;amp; Longevity – September 30, 2021 &lt;/h4&gt;
+
+&lt;iframe width=&quot;960&quot; height=&quot;569&quot; src=&quot;https://www.youtube.com/embed/Y7KQh6KgBvw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 30 Sep 2021 04:00:00 -0500</pubDate>
+        <link>http://localhost:4000/youtube/2021/09/30/vitadao-rapamycin-kaeberlein-et-al.html</link>
+        <guid isPermaLink="true">http://localhost:4000/youtube/2021/09/30/vitadao-rapamycin-kaeberlein-et-al.html</guid>
+        
+        
+        <category>youtube</category>
+        
+      </item>
+    
+      <item>
+        <title>On the in vivo effectiveness of cationic amphiphilic drugs (CADs) against SARS-CoV-2 and other pathogens.</title>
+        <description>&lt;p&gt;A recent high-profile study by &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/34326236/&quot;&gt;Tummino et al.&lt;/a&gt; questioned the in vivo utility of cationic amphiphilic drugs (CADs) as antivirals in mice against SARS-CoV-2. We find several issues with this study.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It curiously contradicts a similiarly high-profile study by the same group where they showed human evidence on CADs efficacy as antivirals against COVID-19. &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/33060197/&quot;&gt;See Figure 9&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;It contradicts numerous other in vivo studies on CADs on other pathogens in mice, humans, and other mammals. &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1UOTl8eZ2zqORR-fZpTChG3sZu7zxPSOBcUEDD44H-qg/edit?usp=sharing&quot;&gt;Here is the list&lt;/a&gt; we’ve started so far of the CADs we are working on. It does not cover all CADs. The doc is editable, so please feel free to add additional citations you find.&lt;/li&gt;
+  &lt;li&gt;It was not rigorously performed. The premise rests on a surprisingly modest set of experiments presented in Figure 5. Moreover, they didn’t detect the in vivo marker of CAD activity (phospholipidosis) in these experiments. Therefore, they can not claim the CAD they tested was active.&lt;/li&gt;
+  &lt;li&gt;Numerous CADs have shown success for COVID-19 (fluvoxamine, fluoxetine).&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sun, 01 Aug 2021 04:00:00 -0500</pubDate>
+        <link>http://localhost:4000/reference/2021/08/01/CADs-SARS-CoV-2-and-other-pathogens.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reference/2021/08/01/CADs-SARS-CoV-2-and-other-pathogens.html</guid>
+        
+        
+        <category>reference</category>
+        
+      </item>
+    
+      <item>
+        <title>VitaDAO VDP-5 Scheibye-Knudsen Lab Funding Proposal</title>
+        <description>&lt;h4&gt; VitaDAO VDP-5 Scheibye-Knudsen Lab Funding Proposal LIVE AMA – July 29, 2021 &lt;/h4&gt;
+
+&lt;iframe width=&quot;960&quot; height=&quot;569&quot; src=&quot;https://www.youtube.com/embed/2mX3DXJfAuE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jul 2021 04:00:00 -0500</pubDate>
+        <link>http://localhost:4000/podcast/2021/07/29/vitadao-morten-scheibye-knudsen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/podcast/2021/07/29/vitadao-morten-scheibye-knudsen.html</guid>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
       <item>
         <title>Conversation about Aging with Ira Pastor.</title>
@@ -75,163 +275,6 @@ DOI: 10.1126/scitranslmed.aav9166; doi: &lt;a href=&quot;https://doi.org/10.1126
         
         
         <category>publication</category>
-        
-      </item>
-    
-      <item>
-        <title>Drug target identification using CRISPRi/a screening.</title>
-        <description>&lt;p&gt;Co-PIs: Tim Peterson, &lt;a href=&quot;https://gilbertlab.ucsf.edu/people/luke-gilbert-phd&quot;&gt;Luke Gilbert&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Our company, &lt;a href=&quot;http://bioio.tech&quot;&gt;Bio-I/O&lt;/a&gt;, was recently awarded a &lt;a href=&quot;https://sbir.nih.gov/funding&quot;&gt;phase I STTR grant&lt;/a&gt; from the NIGMS to use CRISPRi/a screening to identify drug targets for disease ranging from Alzheimer’s to Type II diabetes.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 22 Apr 2020 02:30:00 -0500</pubDate>
-        <link>http://localhost:4000/funding/2020/04/22/CRISPRia-drug-target-ID.html</link>
-        <guid isPermaLink="true">http://localhost:4000/funding/2020/04/22/CRISPRia-drug-target-ID.html</guid>
-        
-        
-        <category>funding</category>
-        
-      </item>
-    
-      <item>
-        <title>Sphingolipid Biosynthesis Inhibition As A Host Strategy Against Diverse Pathogens [Biorxiv].</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2020.04.10.035683v1&quot;&gt;https://www.biorxiv.org/content/10.1101/2020.04.10.035683v1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Sandeep Kumar, Jinmei Li, Jiwoong Park, Sydney K. Hart, Niki J. Song, Damon T. Burrow, Nicholas L. Bean, Nicholas C. Jacobs, Ariella Coler-Reilly, Anastasiia Onyshchenko Pendergrass, Tanya H. Pierre, India C. Bradley, Jan E. Carette, Malini Varadarajan, Thijn R. Brummelkamp, Roland Dolle, Tim R. Peterson&lt;/p&gt;
-
-&lt;p&gt;bioRxiv 035683; doi: &lt;a href=&quot;https://doi.org/10.1101/2020.04.10.035683&quot;&gt;https://doi.org/10.1101/2020.04.10.035683&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Chloroquine is an anti-malarial and immunosuppressant drug that has cationic amphipathic chemical properties. We performed genome-wide screens in human cells with chloroquine and several other widely used cationic amphipathic drugs (CADs) including the anti-depressants, sertraline (Zoloft) and fluoxetine (Prozac), the analgesic nortriptyline (Pamelor), the anti-arrhythmic amiodarone (Cordarone), and the anti-hypertensive verapamil (Calan) to characterize their molecular similarities and differences. Despite CADs having different disease indications but consistent with them sharing key chemical properties, we found CADs to have remarkably similar phenotypic profiles compared with non-CADs we and others have previously screened. The most significant genetic interaction for all CADs was the initiating step in sphingolipid biosynthesis catalyzed by serine palmitoyltransferase (SPT). A comparison of genome-wide screens performed with diverse pathogens from viruses, bacteria, plants, and parasites including Ebola, adeno-associated virus AAV2, HIV, Rotavirus, Influenza A, Zika virus, Picornavirus, Exotoxin A, Cholera toxin, Type III secretion system and Shiga toxin, Ricin toxin, and Toxoplasma gondii showed SPT as a top common host factor and 80% overlap overall in top hits specifically with CADs. Potential sphingolipid-mediated mechanisms for the host response- and virulence-modulating effects of CADs involve autophagy and SERPINE1/PAI-1 (plasminogen activator inhibitor-1). Chloroquine has recently shown potential as an anti-viral agent for the novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease (19, 20). Our study demonstrates that numerous readily available drugs molecularly function highly similar to chloroquine, which suggests they might be considered for further pre-clinical investigation in the context of SARS-CoV-2. More generally, our work suggests the diverse pathogen mitigating potential of drugs that inhibit host sphingolipid biosynthesis such as CADs.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 10 Apr 2020 02:30:00 -0500</pubDate>
-        <link>http://localhost:4000/manuscript/2020/04/10/Sphingolipid-CADs-pathogens.html</link>
-        <guid isPermaLink="true">http://localhost:4000/manuscript/2020/04/10/Sphingolipid-CADs-pathogens.html</guid>
-        
-        
-        <category>manuscript</category>
-        
-      </item>
-    
-      <item>
-        <title>Novel type II diabetes and NASH drugs.</title>
-        <description>&lt;p&gt;Co-PIs: Tim Peterson, &lt;a href=&quot;https://diabetesresearchcenter.dom.wustl.edu/brian-n-finck-ph-d/&quot;&gt;Brian Finck&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Our company, &lt;a href=&quot;http://bioio.tech&quot;&gt;Bio-I/O&lt;/a&gt;, was recently awarded a &lt;a href=&quot;https://sbir.nih.gov/funding&quot;&gt;fast-track STTR grant&lt;/a&gt; from the NIDDK for Novel type II diabetes and non-alcohlic steatohepatitis (NASH) drugs we are developing.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 05 Sep 2019 02:30:00 -0500</pubDate>
-        <link>http://localhost:4000/funding/2019/09/05/TypeII-diabetes-NASH-STTR-grant.html</link>
-        <guid isPermaLink="true">http://localhost:4000/funding/2019/09/05/TypeII-diabetes-NASH-STTR-grant.html</guid>
-        
-        
-        <category>funding</category>
-        
-      </item>
-    
-      <item>
-        <title>Cell growth is an omniphenotype [Biorxiv].</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.biorxiv.org/content/early/2018/12/05/487157&quot;&gt;https://www.biorxiv.org/content/early/2018/12/05/487157&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nick Jacobs, Ji Woong Park, Tim Peterson&lt;/p&gt;
-
-&lt;p&gt;bioRxiv 487157; doi: &lt;a href=&quot;https://doi.org/10.1101/487157&quot;&gt;https://doi.org/10.1101/487157&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Genotype-phenotype relationships are at the heart of biology and medicine. Numerous advances in genotyping and phenotyping have accelerated the pace of disease gene and drug discovery. Though now that there are so many genes and drugs to study, it makes prioritizing them difficult. Also, disease model assays are getting more complex and this is reflected in the growing complexity of research papers and the cost of drug development. Herein we propose a way out of this arms race. We argue for synthetic interaction testing in mammalian cells using cell growth - changes in cell number that could be due to a number of factors - as a readout to judge the potential of a genetic or environmental variable of interest (e.g., a gene or drug). That is, if a gene or drug of interest is combined with a known perturbation and causes a strong cell growth phenotype relative to that caused by the known perturbation alone, this justifies proceeding with the gene/drug in more complex models like mouse models where the known perturbation is already validated. This recommendation is backed by the following: 1) Genes required for cell growth involve nearly all classifications of cellular and molecular processes; 2) Nearly all genes important in cancer - a disease defined by altered cell number - are also important in other complex diseases; 3) Patient condition and patient cell growth responses to many drugs are comparable. Taken together, these findings suggest cell growth could be broadly applicable phenotype for understanding gene and drug function. Measuring cell growth is robust, and requires little time and money. These are features that have long been capitalized on by pioneers using model organisms that we hope more mammalian biologists will recognize.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 05 Dec 2018 08:30:00 -0600</pubDate>
-        <link>http://localhost:4000/manuscript/2018/12/05/Omniphenotype.html</link>
-        <guid isPermaLink="true">http://localhost:4000/manuscript/2018/12/05/Omniphenotype.html</guid>
-        
-        
-        <category>manuscript</category>
-        
-      </item>
-    
-      <item>
-        <title>ATRAID, a genetic factor that regulates the action of nitrogen-containing bisphosphonates on bone [Biorxiv].</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.biorxiv.org/content/early/2018/06/04/338350&quot;&gt;https://www.biorxiv.org/content/early/2018/06/04/338350&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lauren Surface, JiWoong Park, Sandeep Kumar, Damon Burrow, Cheng Lyu, Jinmei Li, Niki Song, Zhou Yu, Abbhirami Rajagopal, Yangjin Bae, Brendan Lee, Steven Mumm, Gabe Haller, Charles Gu, Jonathan Baker, Mahshid Mohseni, Melissa Sum, Margaret Huskey, Shenghui Duan, Vinieth Bijanki, Roberto Civitelli, Michael Gardner, Chris McAndrew, William Ricci, Christina Gurnett, Kathryn Diemer, Jan Carette, Malini Varadarajan, Thijn Brummelkamp, Kivanc Birsoy, David Sabatini, Tim Peterson&lt;/p&gt;
-
-&lt;p&gt;bioRxiv 338350; doi: &lt;a href=&quot;https://doi.org/10.1101/338350&quot;&gt;https://doi.org/10.1101/338350&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nitrogen-containing bisphosphonates (N-BPs), such as alendronate (Fosamax), are the mostly widely prescribed medications for diseases involving bone, with nearly 200 million prescriptions written annually. In the last few years, widespread use of N-BPs has been challenged due to the risk of rare but significant side effects such as atypical femoral fractures and osteonecrosis of the jaw. N-BPs bind to and inhibit farnesyl diphosphate synthase (FDPS), resulting in defects in protein prenylation. Yet it remains poorly understood what other cellular targets N-BPs might have. Herein, we perform genome-wide studies in cells and patients to identify the gene, ATRAID, that functions with FDPS in a novel pathway we name the TBONE (Target of Bisphosphonates) pathway. Loss of ATRAID function results in selective resistance to NBP-mediated loss of cell viability and the prevention of alendronate-mediated inhibition of prenylation. ATRAID is required for alendronate inhibition of osteoclast function, and ATRAID-deficient mice have impaired therapeutic responses to alendronate in a model of postmenopausal osteoporosis. Our work adds key insight into the mechanistic action of N-BPs and the processes that might underlie differential responsiveness to N-BPs in people.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Jun 2018 09:30:00 -0500</pubDate>
-        <link>http://localhost:4000/manuscript/2018/06/04/ATRAID.html</link>
-        <guid isPermaLink="true">http://localhost:4000/manuscript/2018/06/04/ATRAID.html</guid>
-        
-        
-        <category>manuscript</category>
-        
-      </item>
-    
-      <item>
-        <title>Summer 2017 Updates</title>
-        <description>&lt;h4 id=&quot;new-people&quot;&gt;New people&lt;/h4&gt;
-
-&lt;p&gt;Several new people joined the lab.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sandeep Kumar comes to us from Kerry Kornfeld’s lab.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Harrison Rhee and Cheng Lyu are students at WashU.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;This summer we also had India Bradley, who was an Amgen Scholar, with us from Howard University.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;New funding from Amazon Web Services (AWS) to support the MORPHEOME and PubMed natural language processing projects.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;New funding from the Nathan Shock Aging Center for the 10X Lifespan project. Ji Woong and Chris Chow wrote the AWS proposal, so congrats to them!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 23 Aug 2017 09:30:00 -0500</pubDate>
-        <link>http://localhost:4000/lab/updates/2017/08/23/Summer-2017-updates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/lab/updates/2017/08/23/Summer-2017-updates.html</guid>
-        
-        
-        <category>lab</category>
-        
-        <category>updates</category>
-        
-      </item>
-    
-      <item>
-        <title>Bone basics</title>
-        <description>&lt;p&gt;&lt;strong&gt;Bone basics&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;how-to-measure-bone-activity&quot;&gt;How to measure bone activity?&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/bfr.png&quot; alt=&quot;BFR explained&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Osteoblasts:&lt;/strong&gt; Fluorescent microscopy of verterbrae to evaluate dynamic histomorphometry, in particular bone formation rate (BFR). Mice were injected with the fluorescent dyes, Calcein (in green), on day 0 and Alizarin Red (in red), 7 days later. The distance between the Calcein and Alizarin Red labelling provides a measure of bone formation rate and more specifically, osteoblast activity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/trap.png&quot; alt=&quot;TRAP explained&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Osteoclasts:&lt;/strong&gt; Brightfield microscopy of vertebrae to evaluate osteoclast activity with Tartrate-Resistant Acid Phosphate (TRAP) assay Plastic sections of mouse L3-L4 vertebrae were used. The number of TRAP+ cells  (in red) on bone surface provides a measure of osteoclast activity.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 29 Aug 2016 09:30:00 -0500</pubDate>
-        <link>http://localhost:4000/skeletal-system/2016/08/29/bone-basics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/skeletal-system/2016/08/29/bone-basics.html</guid>
-        
-        
-        <category>skeletal-system</category>
         
       </item>
     
